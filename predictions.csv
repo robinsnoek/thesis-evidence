@@ -1,0 +1,1369 @@
+;sentence;label;prediction
+0;From what I've been told by my German friend they are pretty ashamed of their involvements during WWII.;Anecdote;Anecdote
+1;Whereas we in the US find some pride that period.;Assumption;None
+2;I could be wrong but I'm fairly certain this is still a big deal.;Assumption;Assumption
+3;"&gt; More privacy
+
+Huh?";None;None
+4;In what sense?;None;None
+5;You think Germans are not monitored?;None;Assumption
+6;Censorship is an issue I have with Germany.;None;Assumption
+7;GEMA for example is inexcusable institution which deprives both artists and the consumer of their rights, and no-one does jackshit about it despite everyone being pissed.;Anecdote;Assumption
+8;Then there's the fact that the anti-Nazi obsession is so out of proportion that people are uncomfortable even discussing history.;Assumption;Assumption
+9;It's embarrassing, and an immensly strong criticism I have of Germany.;Assumption;None
+10;Any political discourse is bland and loaded with insecurity here, which is made worse by the fact that Germans suck at small talk.;Assumption;Assumption
+11;I like Germany a bunch, but US beef is so much better than German beef it ought to outweigh every other factor.;Assumption;Assumption
+12;Sure Germany's got less class inequality and better vacation time, but if you want a good steak you gotta go Stateside.;Assumption;Assumption
+13;"https://en.wikipedia.org/wiki/World_Happiness_Report
+
+Germany score is 6.994, US score is 7.104 (higher is better).";Statistics/Study;Statistics/Study
+14;So its better to be in the US than Germany.;Statistics/Study;Assumption
+15;I would honestly be concerned about xenophobia in Germany.;Assumption;None
+16;US has xenophobic problems too but Germany seems to have more - Jews, immigrants, serious nationalism.;Assumption;Assumption
+17;"&gt; as long as you are not rich
+
+You mean as long as you don't reach a goal many people find worthy and spend most of their time working towards?";Assumption;None
+18;You exception basically excludes almost everyone and therefore weakens the utility of your point.;Assumption;Assumption
+19;This whole thread goes by, and no one brings up marijuana?;None;None
+20;Granted, I hear Germany is considering, but the US is currently leading the charge into drug freedom.;Assumption;Assumption
+21;As far as my understanding goes, Germany has incredibly harsh punishments for possession.;Assumption;Assumption
+22;Portugal wins on the drug front overall, but the US is certainly doing better compared to Germany.;Assumption;Assumption
+23;"You make some good points but:
+
+- worse customer service?";None;None
+24;No thanks, it's poor enough now as it is.;Assumption;Assumption
+25; Anti-nuclear power?;Assumption;None
+26;That's just ostrich thinking, it's one of the most efficient methods there is, certainly better than fossil fuels.;Assumption;Assumption
+27;Shops not open on Sunday?;None;None
+28;I'll pass.;None;None
+29;At best, shops should have the option, but to not allow a shop to open is silly.;Assumption;None
+30;Many people work Mon-Fri and the weekend is the only time they can shop.;Assumption;Assumption
+31;- Mandatory expensive training to get a driver's license?;None;None
+32;So, the poor can't get one?;None;None
+33;Thanks, but I'll stay in Canada.;None;None
+34;"Since apparently noone else has bothered to throw out this one point that solidly and utterly debunks your point, i will:
+
+
+* 'Murica
+
+
+I rest my case
+[Drops mic]
+
+Edit:
+
+But seruously though, the ""murica"" phenomenon is a mass exercise in self deprecating humor that simultaneously recognizes americas greatness and sympathizes with the mildy anti-american sentiment commonly held by many among the international community (basically spoofing our arrogance as a way of saying that we arent hot stuff)";None;Assumption
+35;No private firearm ownership outside of clubs generally.;Assumption;None
+36;Free speech less protected.;Assumption;None
+37;Sovereignty challenged by EU.;Assumption;None
+38; Germany has much lower GDP per capita.;Statistics/Study;Assumption
+39; Germany has substantially more imports per capita.;Statistics/Study;Assumption
+40;Germany runs a higher public debt.;Statistics/Study;Assumption
+41;Germany has a slightly lower HDI.;Statistics/Study;Assumption
+42;Germany is slightly less happy per capita.;Statistics/Study;Assumption
+43;- Germany has a larger % (all be it a small one still) of its population living under the poverty line.;Statistics/Study;Statistics/Study
+44; The US has higher GDP growth.;Statistics/Study;Assumption
+45;- The US has higher population growth, and a better age demographic.;Assumption;Assumption
+46;To compound this, Germany has a lower fertility rate, higher death rate per 1000 people, and lower birth rate.;Statistics/Study;Assumption
+47;The US has far less people per square mile.;Statistics/Study;Assumption
+48;Germany is not a permanent member of The UN Security Council.;Assumption;Statistics/Study
+49;slightly less people have access to The internet in Germany.;Statistics/Study;Assumption
+50;I could go on.;None;None
+51;While much of what you say is true, it is quite clear Germany is not better in every single way *objectively*.;Assumption;Assumption
+52;Late to the party, and I probably should take the time to read what everyone else wrote, but there are some quick observations.;None;None
+53;Germany may be better in some ways, but certainly not in all, even if you only look at the poor.;Assumption;Assumption
+54;One big example is the lack of Gay Marriage in Germany, compared to the US.;Anecdote;Anecdote
+55;There is a registered partnership which is almost but not quite the same as marriage in many but not all ways.;Anecdote;Assumption
+56;Legal, while only some parts of US have legalized recreational marijuana and the whole drug war thing is loads better in Germany than the US in general, pot is still technically illegal in Germany, even though most Germans probably live closer to places where pot is legal than most Americans.;Assumption;Assumption
+57;Drivers licenses.;None;None
+58;In America every idiot is allowed to drive a car.;Assumption;Assumption
+59;In Germany too but you have to be older and pay a huge amount of money for official driving lessons.;Assumption;Assumption
+60;That are just a few examples of the top of my head.;None;None
+61;Many countries are in many ways.;Assumption;Assumption
+62;Australia for example has less murder rates, higher standard of living, and high english/maths literacy.;Statistics/Study;Assumption
+63;"However, our culture is nearly entire derived from America &amp; Europe (slowly Asia too), since our country is young.";Assumption;Assumption
+64;Your content largely comes down to 'If you hold all of my values and like all the things I do with the same priorities I do then you'll like Germany better than the US.';Assumption;Assumption
+65;Very little of what you say has anything to do with your title claim.;None;Assumption
+66;Also: Germany is largely a laughingstock, considered by people to be utterly ashamed of anything resembling nationality, pride in German culture, and otherwise.;Assumption;Assumption
+67;Which is one reason why demographically, Germany is not just dying, but can't even bring itself to regard said death as a bad thing.;Assumption;Assumption
+68;There's some signs that is changing, but the very signs those are (recent political developments in reaction to refugees, etc) is something you'd apparently regard as bad news.;Assumption;Assumption
+69;I've heard from people that they like the open culture of the USA much more.;Anecdote;Anecdote
+70;"Over here the only personal exchange you have with your cashier is a simple ""hello"" and not small talk.";Anecdote;Assumption
+71;Or that you will be able to talk to strangers when you go to the bar or that other people will talk to you when you go there alone.;Anecdote;Assumption
+72;On the other hand I can see how people don't want that at all.;Assumption;Assumption
+73;"FYI, smaller houses being ""objectively worse"" is silly.";None;Assumption
+74;I don't want a big house.;Anecdote;Assumption
+75;I have no reason to have a big house and I'd simply have to clean all the space I wasn't really using.;Anecdote;Assumption
+76;I also don't want to own land I have to tend.;Anecdote;None
+77;"So you should use the phrase ""subjectively worse"" since whether it is worse or not is entirely subjective.";Anecdote;None
+78;Something objectively worse would be air pollution, since, theoretically, it is in no one's interest to breathe polluted air.;Assumption;Assumption
+79;"So you say its ""free college"" but we both know thats not true because you have to pay for it in taxes.";Assumption;Assumption
+80;Why do you think its good to take money from individuals who know what they want and give it to the government to spend inefficiently?;Other;Assumption
+81;the same for universal health care.;None;Assumption
+82;"Public transport is only ""worse"" in america because everything is more spread out.";Assumption;Assumption
+83;You cant get anywhere on a bus unlike germany.;Assumption;Assumption
+84;"You say people read more and all that but do you have proof or is that just anecdotal or the ""Americans are stupid"" stereotype?";Other;None
+85;Less money in politics, can you prove it?;None;None
+86;is there less money or just less awareness?;None;None
+87;Also i dont necessarily that money in politics is bad but can you explain why specifically its so bad?;None;None
+88;You talk about how germany is more progressive and while thats not necessarily false you have to consider the area you live in the U.S.;Assumption;Assumption
+89;If you are living in the north then its basically just as progressive.;Assumption;Assumption
+90;Much stricter gun laws in not an objective positive.;Assumption;Assumption
+91;How is Rich people being less rich a positive?;None;None
+92;Can you prove that the schools are better in germany?;None;Anecdote
+93;Think of it this way there are sections and populations as big as germany that live better than germans.;Assumption;Assumption
+94;However because its such a large place there are lots of people bringing averages down.;Assumption;Assumption
+95;The body of your post literally disproves your title, since your title says ''in every single way'' and your body lists downsides.;None;Assumption
+96;Also, if we ignore your title and look at what you're *actually* asking, it's utterly silly.;Assumption;None
+97;Half the things being discussed are subjective.;Assumption;Assumption
+98;"You're basically telling us to disprove the sentiment
+
+&gt;I like X better than Y
+
+rather than something we could actually work with, like
+
+&gt;X is better than Y
+
+4/10 shitpost.";None;Assumption
+99;america is about the hope of becoming the 1%, then using your wealth to bribe policymakers to become even richer.;Assumption;Assumption
+100;You do not need to be rich, all you need is the dream and greed.;Assumption;Assumption
+101;Seriously though, some of the best specialist doctors in the world live in the US, If you have a complicated medical issue, wouldn't you want the best specialist in the world a short distance away?;Assumption;None
+102;Not racist?;None;None
+103;Americans have more racial tension but are actually less racist towards each other simply due to exposure.;Assumption;Assumption
+104;The only exposure Germans have is with Muslims.;Assumption;Assumption
+105;As an anecdote I'm Bengali in a major city with pretty much every race, and I have a wide variety of friends from a racial perspective.;Anecdote;Anecdote
+106;Europeans in general are probably more racist from what I've seen on /r/worldnews and comments on BBC Facebook posts than Americans.;Anecdote;Assumption
+107;They have less knowledge about racial dynamics than Americans who watch Fox News.;Assumption;Assumption
+108;You argue a case for Germany being better, but state yourself that it isn't in every way.;None;Assumption
+109;For schooling, the US university system is still the best in the world, although challenged by the poor K-12 system.;Assumption;Anecdote
+110;"Also, homeschooling is illegal in Germany; their is no tolerance for certain types of dissent.";Assumption;Assumption
+111;Immigration has been a huge benefit to the US throughout its history and the resulting culture is the most diverse in the world.;Assumption;Assumption
+112;This means that the variety of great cuisines in the US is unmatched.;Assumption;Assumption
+113;I'll be a bit snarky and say that likely the most world-recognized German product is beer, and the flourishing US micro/nano-brewery movement is imporving faster then the regulated German beer industry.;Assumption;Assumption
+114;Finally, while Germans are generally good English speakers, it is clealy not the best place to learn the most common global language.;Assumption;Assumption
+115;"I'll agree with your unstated premise that the ""average"" experience may well be better for Germans, but the diversity and opportunity in the US remain unmatched.";Assumption;Assumption
+116;The German public treat their military terribly.;Assumption;Assumption
+117;They do not give them the time of day.;Assumption;Assumption
+118;I met a German soldier studying here in the US who could not believe how well American military are treated by society as a whole.;Anecdote;Anecdote
+119;As an individual, he is routinely turned down by women he has been hitting it off with, once they find out he's German military.;Anecdote;Anecdote
+120;He says he can't run off of his instillation in Germany without someone calling him out or making a comment about him as a person and being military.;Anecdote;Assumption
+121;He does not advertise that he is military and would NEVER go out in public in uniform.;Anecdote;Anecdote
+122;I would not want to live in a democracy that does not confront personal animosity towards its frontline defenders.;Assumption;Assumption
+123;Edit to expand and not seem so shallow: Second paragraph;None;None
+124;"""Worse for Republicans, better for liberals.""";Assumption;Assumption
+125;So by your own admission you've just said that Germany is worse if you're a republican.;Assumption;Assumption
+126;That's a huge part of the US population.;Assumption;Assumption
+127;In many places in Germany you take a test in the 4th grade that determines what kind of secondary school you will go to.;Assumption;Anecdote
+128;If you do well, your secondary school is on a college track, and prepares you for a white collar life.;Assumption;Assumption
+129;If you do badly, your secondary school won't prepare or allow you to go to college.;Assumption;Assumption
+130;Just based on human nature.;None;Assumption
+131;"If you could get an entire country of men to agree not to join the military; another country's military would simply invade them without hesitation
+
+You shouldn't blame men for accepting the world they live in";None;Assumption
+132;Many people joined the armed forces for access to education, and I had at one point planned on joining the Navy so I could scuba dive.;Anecdote;Anecdote
+133;It can be the only way of getting a higher education for some people.;Assumption;Assumption
+134;Well, war is essentially a war between armies/soldiers so Im not sure why you want your view to be changed as thats simply a fact.;Assumption;Assumption
+135;If nations or other group of society would never have soldiers then there would be no fights at a scale that could be considered war.;Assumption;Assumption
+136;Soldiers are a needed ressource in war.;Assumption;Assumption
+137;If there are no soldiers, what would stop the people of one country from simply taking land from a neighboring country?;Other;None
+138;An army is just as much a deterrent to war as it is something that perpetuates war.;Assumption;Assumption
+139;Consider watching the Dutch Army General Peter van Uhm's [TED talk about guns](https://www.youtube.com/watch?v=LjAsM1vAhW0).;Testimony;Anecdote
+140;Here's one quote from it.;Testimony;None
+141;"(paraphrased)
+
+&gt; Sometimes only the gun can stand between good and evil, and that is why I took up the gun.";Testimony;Anecdote
+142;Not to shoot, not to kill, not to destroy.;Testimony;Assumption
+143;But to stop those who would do evil.;Testimony;Assumption
+144;To protect the vulnerable.;Testimony;Assumption
+145;To defend democratic values.;Testimony;Assumption
+146;I agree with your view to an extent.;None;None
+147;However, you are light years ahead of where we need to be as a species before we no longer need armies.;Assumption;Assumption
+148;If we can survive this era of humanity, I do believe we'll evolve into a peaceful species.;Assumption;Assumption
+149;But we're talking thousands of years from now.;Assumption;None
+150;Humans still have violent instincts.;Assumption;Assumption
+151;We're too close to our animalistic behavior to not have the inherent desire to fight and conquer and win and collect.;Assumption;Assumption
+152;The fact is, as there is overwhelming evidence, the toughest, most violent people will fill voids of power.;Assumption;Assumption
+153;Where there isn't a governed region, someone will find a way to control the people in the region through use of violence.;Assumption;Assumption
+154;"I think an important step is developing a good ""soft"" military... Intelligence officers, engineers, military strategists, etc.";Assumption;Assumption
+155;"Having a strong soft military will lessen the need for what you describe as ""killing machines"".";Assumption;Assumption
+156;Most of the people will simply have to understand how complex weaponry works and push a button.;Assumption;Assumption
+157;The good news is, despite what the media tells you, we are living during one of the most peaceful eras in history.;Assumption;Assumption
+158;I have hope that we'll continue the path and eventually evolve into a totally non-violent society.;None;Assumption
+159;Incidentally, history suggests that millions of soldiers losing their jobs all at once would not be economically harmful.;Anecdote;Assumption
+160;We tried it after World War II, and the results were [quite positive](https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion).;Anecdote;Anecdote
+161;There are many reasons besides liking war that people enlist.;Assumption;Assumption
+162;I kinda had to say that to abide by the rules.;None;None
+163;Here is something I found interesting today.;None;None
+164;Reading an article about a scientist who has discovered how to trigger limbs and eyes to regrow in on the left or right side of some animals, and the article pointed out how this could be used to regrow a soldiers arm that got blown off.;Testimony;Assumption
+165;"I know this is not why they do it, but my first thought was "" Really?";None;Assumption
+166;"we want to be able to regrow limbs so we can continue this cycle of endless war? """;None;Assumption
+167;a world without soldiers would not be peaceful.;Assumption;Assumption
+168;Soldiers are tools used by governments to perpetuate agendas, as a diplomatic threat and a method of enforcing those agendas upon unwilling governments, organizations, and peoples.;Assumption;Assumption
+169;If governments did not have people to use as that tool, they would use something else.;Assumption;Assumption
+170;Machines, drones, NBCs, bombs, whatever comes to hand.;Assumption;Assumption
+171;I'm also going to disagree with your statement that most soldiers join to serve the country.;None;None
+172;At least in America, despite our idolization of patriotism, most soldiers (in my experience) join for personal benefit.;Anecdote;Assumption
+173;College money, steady employment, free Healthcare, etc etc.;Anecdote;Assumption
+174;I think the thing you have to consider is that if a country disbands, decreases, or loses it's army, it creates a vacuum.;Assumption;Assumption
+175;When this happens, some other armed force will inevitably fill that void, and it's usually not the armed force you'd like.;Assumption;Assumption
+176;Potentially drug lords, terrorist organizations, etc.;Assumption;Assumption
+177;One example of this would be ISIS.;Anecdote;Anecdote
+178;The failed state(s) in which ISIS operate provide an opportunity to seize control and execute their own agenda.;Anecdote;Assumption
+179;Brazil faces similar problems, and one could make an argument that parts of Chicago have similar circumstances.;Anecdote;Assumption
+180;The fact of the matter is, humans are creatures of war.;Assumption;Assumption
+181;Even if every country decided to lay down their arms, someone would be along shortly to pick them up.;Assumption;Assumption
+182;Soldiers are respected for their willingness to die for their cause.;Assumption;Assumption
+183;The point is, if all the soldiers were gone, you're left with dealing with people who are willing to die for their cause having all of the power.;Assumption;Assumption
+184;You're happy with your life and don't have people willing to die to protect that way of life?;Assumption;Assumption
+185;Guess what, me and my friends who are willing, or maybe even just reckless, now own your place and I'll decide whether or not you get to persist with your happy society.;Assumption;Assumption
+186;Civilization is a facade of safety against nature's monsters, and the monsters that humans tend to be towards each other, a comforting white lie, predicated on the idea that there are people willing and able to commit violence on the less able or willing's, behalf.;Assumption;Assumption
+187;Professional performers of violence are a necessary evil for a safe society.;Assumption;Assumption
+188;It's a prisoner's dilemma.;Assumption;Assumption
+189;Sure, if nobody serves in any military then we end up with the best possible world- no war.;Assumption;Assumption
+190;However, if someone breaks that ideal and joins up, or more likely someone is forced to fight, then the country without the army suffers immensely.;Assumption;Assumption
+191;So the safest bet, when you don't have any guarantee of cooperation from a third party, is to make an army and take the increase in violence and war that comes with it.;Assumption;Assumption
+192;Not all soldiers go to war.;Assumption;Assumption
+193;Not all wars are fought by soldiers.;Assumption;Assumption
+194;Wars are rarely started by the people you consider soldiers.;Assumption;Assumption
+195;The first person who decides to act as a soldier (in a much broader sense than your nationalistic definition of soldier) enables war but additional soldiers do not necessarily perpetuate it.;Assumption;Assumption
+196;In fact, without an opposing force wars would have less reason to stop.;Assumption;Assumption
+197;Some soldiers end wars that would have continued otherwise.;Assumption;Assumption
+198;Responsibility lies with those responsible and soldiers are not necessarily part of that group.;Assumption;Assumption
+199;Your view is not applicable to all soldiers.;Assumption;None
+200;Soldiers can exist without war and war can exist without soldiers.;Assumption;Assumption
+201;War is much more complicated than that and eradicating it would require a greater fundamental change than even your admittedly impossible desire.;Assumption;Assumption
+202;Seeing the time stamps on a lot of these, I'm probably too late.;None;Assumption
+203;But here goes!;None;None
+204;Your view is one of many in a greater debate about the fundamental nature of mankind: If civilization were removed - with its national pride and drive for resources taken with it - would mankind be peaceful, or violent?;None;None
+205;"Unfortunately, the question itself is moot; whether or not mankind as a whole were peaceful is irrelevant because there only needs to be violent individuals, few and far between, to trigger cycles of violence.";Assumption;Assumption
+206;These violent individuals will have to be met with violence in order to insure the survival of the whole.;Assumption;Assumption
+207;"One this has happened, it is no longer just these individuals who must be considered violent; it is the home.";Assumption;Assumption
+208;TL;Assumption;None
+209;So, if country A does not have a military, only police, and country B *does* have a military, country B *will* exploit the situation.;Assumption;Assumption
+210;History shows this happens time and time again.;Assumption;Assumption
+211;Until a global order is established, countries will compete for resources.;Assumption;Assumption
+212;This competition sometimes delves into violence, because that is a fundamental aspect of our species.;Assumption;Assumption
+213;Hopefully, we will eventually evolve out of it.;None;Assumption
+214;In the meantime, we have not, and war is guaranteed to exist somewhere in the world.;Assumption;Assumption
+215;Following this model, volunteering to serve doesn't make you a perpetrator of war - only a participant in something that would be happening whether you were there or not.;Assumption;Assumption
+216;Global peace will be a consequence of a shift in philosophy and emotional maturity by the entire species over time, not the actions or inactions of a single person.;Assumption;Assumption
+217;Agree.;None;None
+218;I accept that standing militaries are necessary, but in the same way that death penalty executioners are.;None;Assumption
+219;We aren't calling those people heroes and victims constantly, so why would we pander so hard to these volunteers?;Other;None
+220;They're just federal workers choosing to do an ugly job and getting paid well for it.;Assumption;Assumption
+221; Enough with the propaganda telling us to call them heroes and victims constantly.;None;Assumption
+222;Firstly you must recognise that war is almost inevitable, as wars are typically won by the countries that fight.;Assumption;Assumption
+223;Secondly, until we develop a low cost robot army, wars will be fought with people.;Assumption;Assumption
+224;If people are unwilling to fight for their country in such large quantities that their country faces a large disadvantage in war, that country must resort to policies such as conscription.;Assumption;Assumption
+225;In a way, those willing to sign up are protecting your rights to live freely as a civilian, by allowing your country to continue to recruit only volunteers.;Assumption;Assumption
+226;It takes only one warmonger to take over every peaceful nation in the world.;Assumption;Assumption
+227;It is very much dependent on the choice of the leaders of the military, not the members, that perpetuates or discourages war and violence.;Assumption;Assumption
+228;Considering the current state of our world, having some ability for a country to defend itself is a necessity because right now it is just a fact that enough extremism exists to warrant a military.;Assumption;Assumption
+229;In a similar way, if you worked in a fast food chain when you're in highschool, were you perpetuating obesity?;Assumption;None
+230;Your argument could further be carried over towards police as well since they are arguably perpetrator of violence.;Assumption;Assumption
+231;As soon as we start to remove the powers which use violence to protect, regardless of whether that's all they use it for or not, people will begin to take advantage of the lack of enforcement and remind us why we had soldiers serving in the first place.;Assumption;Assumption
+232;"I'm noticing that I'm getting downvoted for my opinions in some of my replies (except the ""never said anything about policemen"" one, my bad).";None;None
+233;I'd be a lot more open-minded if i wasn't just being downvoted for having a controversial opinion, thanks.;None;None
+234;I think your view is unfairly blaming soldiers for war.;None;None
+235;You say without soldiers there would be peace and ascribe this to the absence of men fighting.;None;Assumption
+236;So is your ultimate problem with war or soldiers?;None;None
+237;War could just as easily be waged with human killing robots (e.g.;Assumption;Assumption
+238;Drones).;Assumption;None
+239;Soldiers have signed up for duty to serve their countries during times of peace.;Assumption;Assumption
+240;"They are instruments of war, not the cause; and therefore should not be blamed for it.";Assumption;Assumption
+241;You should look into realist theory in international relations.;Statistics/Study;None
+242;While not applicable to every situation it gives great insight into why nations fight.;Statistics/Study;Assumption
+243;Simply put, even if you eliminate every soldier from the equation the uncertainty of what your neighbor is doing would likely spark conflict anyway.;Statistics/Study;Assumption
+244;You don't need soldiers to fight one another.;Statistics/Study;Assumption
+245;As Thomas Hobbes said in Leviathan, for every neck there are two hands to strangle it.;Testimony;Testimony
+246;I'd recommend checking out Mearschimer's book The Tragedy of Great Power Politics.;Testimony;Testimony
+247;It's not exactly a happy book, but maybe it could shed some light on why nations pursue conflict with each other.;Testimony;Assumption
+248;What I really want to get at is that removing soldiers wouldn't necessarily reduce conflict.;Assumption;Assumption
+249;Who do you think makes all that equipment that the military uses?;None;None
+250;Or who do you think funds it?;None;None
+251;Its the entire nation's citizens that go to war, not just their military.;Assumption;Assumption
+252;Your view doesn't make any sense, because the idea of a standing army is not an artificial construct.;Assumption;Assumption
+253;It's simply militias and mercenaries on a national scale.;Assumption;Assumption
+254;It doesn't make any sense to say that soldiers would cease to exist.;Assumption;Assumption
+255;The weapons would still be there, yeah?;Other;None
+256;"Someone who uses those weapons would be the new ""soldier"".";Assumption;Assumption
+257;Soldiers, just like all humans, can be exploited for good or bad ends.;Assumption;Assumption
+258;Blaming soldiers for war because they fight in it is no different from blaming taxpayers for war because they fund it.;Assumption;Assumption
+259;Which is to say, it's silly.;Assumption;None
+260;Brasil is a perfect example of why this isn't true at all.;Anecdote;None
+261;When criminals can get their hands on guns through illegal means anyway then you're helping criminals become more deadly because now they're thinking if they rob someone they don't have to worry because no one can defend themselves.;Anecdote;Assumption
+262;One of the reasons why there's violent crimes there.;Anecdote;Assumption
+263;legal gun owners almost never shoot anyone (except in self defense)...gun related violence and crime is almost always coming from illegally obtained guns...which is going to happen in your utopia as well and with greater vigor because criminals dont need to worry about self defense anymore.;Assumption;Assumption
+264;Also, if you measure the gun violence among only the white population in the US, you will find that it is very comparable to the white population in the uk.;Assumption;Assumption
+265;If you are so concerned about statistics, you would need to ban black people, not guns.;Assumption;Assumption
+266;Your car versus gun analogy is funny.;None;Assumption
+267;As a white person in a city with really bad crime...i can tell you that I would sell my car to get a gun.;Assumption;Anecdote
+268;I can still take a bus, but without a gun im probably going to be dead.;Assumption;Assumption
+269;Life is more important than easy commute.;Assumption;Assumption
+270;I dont think you folks in the UK can appreciate how bad it is in parts of the US.;Assumption;Assumption
+271;you have never seen anything like it.;Assumption;Assumption
+272;If you were living in iraq, you would probably think that its a good idea to have a gun, right?;Assumption;Assumption
+273;you wouldnt be so flippant about how unnecessary it is.;Assumption;None
+274;The US has war zones just as bad as iraq.;Assumption;Assumption
+275;And its not because of legally owned guns.;Assumption;Assumption
+276;"For all the gun grabbers in here, if you were an American and Donald Trump ordered all guns to be turned in for ""public safety,"" would you hand yours over?";None;Assumption
+277;Would you want all of your neighbors to hand theirs over?;None;None
+278;It's just Mr. Trump trying to protect you.;None;Assumption
+279;What's the harm?;None;None
+280;"&gt; but to me nothing is more convincing than the statistics (example: http://www.bbc.co.uk/news/world-us-canada-34996604).";None;Statistics/Study
+281;Only one of those statistics has any meaning in the argument to restrict gun ownership, the overall homicide rate.;Assumption;Assumption
+282;The rest improperly separate shootings from other means of violence, while it is the total rate of that general form of violence that is important.;Assumption;Assumption
+283;Mass shootings are only a meaningful statistic as a portion of all mass murders.;Assumption;Assumption
+284;Given that the non-gun homicide rate of the US is not comparable to the non-gun homicide rate of the other countries, the presence of a large contingent of gun-related homicides cannot be said to be extra.;Assumption;Assumption
+285;We could easily see the method change without a meaningful alteration in total homicide rate.;Assumption;Assumption
+286;For the one honest statistic presented in your link to be convincing, it would need to demonstrate a relatively consistent non-gun homicide rate across many countries with and without gun restrictions, alongside a high gun homicide rate solely in countries with those restrictions.;Assumption;Assumption
+287;As the statistic is presented, it is quite clear that gun homicides are not an isolated variable in the comparison.;Assumption;Assumption
+288;In short, the statistics listed on that page should not be convincing.;Assumption;None
+289;"&gt; if the government came after us, they'd likely win even if we had a gun.";Assumption;Assumption
+290;This is only true in the last 30 years, in the age of instantaneous communications and overwhelming force multipliers.;Assumption;Assumption
+291;But an armed populace still makes a dictatorial takeover *much* harder to achieve.;Assumption;Assumption
+292;We in the US do still need more regulation of access, but the fundamental right to reasonable self-defense remains.;Assumption;Assumption
+293;Guns don't kill people.;Assumption;Assumption
+294;People kill people.;Assumption;Assumption
+295;"There is no negative to ""Full Liberty"".";Assumption;Assumption
+296;You wouldn't consider taking away someone's right to free speech if they said something that offended someone else would you?;Assumption;None
+297;You either believe in Full Liberty or you don't.;Assumption;Assumption
+298;There are statistics that show a negative effect of banning guns in countries.;Assumption;Assumption
+299;Australia for example has seen a rise in violent crime since guns have been banned.;Anecdote;Assumption
+300;So tired of always being afraid.;Anecdote;None
+301;A mentally unstable man down the street from us was found to have 88 guns.;Anecdote;Assumption
+302;His parents reported him because they were afraid.;Anecdote;Anecdote
+303;He was 'getting ready'.;Anecdote;Anecdote
+304;He was institutionalized for 4 months.;Anecdote;Anecdote
+305;He will be home tomorrow.;Anecdote;Assumption
+306;Everyday I walk past his house and wonder what he was getting ready for.;Anecdote;Anecdote
+307;It depends on the length of time youre looking at the country.;Assumption;Assumption
+308;In the long run, countries with guns do better because the government cant massively kill people.;Assumption;Assumption
+309;Imagine if all the Jews in Germany had been armed, same with other places where mass genocides have taken place.;Assumption;Assumption
+310;"Here is the thing: you don't believe in ""no guns for anybody.""";Assumption;None
+311;"You believe in ""no guns for us common folk.";Assumption;Assumption
+312;"Army, and some police should  still have them.""";Assumption;Assumption
+313;"See, you come from a country where it's common for you to think of yourself as ""common people"", and common to think of the government as royalty or gods.";Assumption;Assumption
+314;"You have no problem saying, ""we little people are not entitled to the same level of freedom as those who rule us.";Assumption;Assumption
+315;My country, the US, well, we used guns to free ourself from your royalty.;Anecdote;Anecdote
+316;They tried to stop us with guns.;Anecdote;Anecdote
+317;Had we not been allowed to own guns, we couldn't have won our freedom.;Anecdote;Assumption
+318;So, for obvious reasons, we are not keen on having our current government take our guns and keep guns for themselves.;Anecdote;Assumption
+319;I am libertarian.;None;Anecdote
+320;Part of the party here in the US.;None;Assumption
+321;"You might want to spend some time thinking about the ""only the kings have guns"" version of the world you envision.";Assumption;None
+322;I think you'll quickly find you are not libertarian, nor do you understand freedom.;Assumption;Assumption
+323;Governments go bad.;Assumption;Assumption
+324;That's why civilians need to be armed, too.;Assumption;Assumption
+325;It's happens ALL THE TIME.;Assumption;Assumption
+326;at any given time in history there is a revolution some were.;Assumption;Assumption
+327;Yes, you shouldn't need to use a gun on an average day.;Assumption;None
+328;But your life will not contain only average days.;Assumption;Assumption
+329;without a gun you can't fight cops.;Assumption;Assumption
+330;its a standard of violence in America.;Assumption;Assumption
+331;disarming the state would make things safer.;Assumption;Assumption
+332;"(and the car analogy is bunk cause you are artificially needing a car for a ""job""";Assumption;Assumption
+333;Before we begin let's clarify what a gun is, it's a tool that shoot projectiles.;Definition;Assumption
+334;It is just that, a simple tool, like a hammer, a fork, a screwdriver.;Definition;Assumption
+335;Sure, it may not be useful all the time, but there are times when the need to shoot may arise, and would you rather it be done by another person with other agendas and interest or by you?;Assumption;None
+336;Also, you can ban the gun, but you can not ban man's ingenuity to create tools for it's own goals.;Assumption;Assumption
+337;Maybe I can appeal to your Libertarian side.;Assumption;None
+338;Think about all the other rights people have.;Assumption;None
+339;In America, we also have 4th Amendment rights against search and seizure.;Assumption;Assumption
+340;If we got rid of this right, the police could search any private residence they wish, at any time.;Assumption;Assumption
+341;If they did this in high crime neighborhoods, the crime rate, particularly the violent crime rate, would plummet.;Assumption;Assumption
+342;And if you haven't done anything wrong, you have nothing to hide, right?;None;None
+343;My point above is, just because there are less murders and crimes when you take away peoples freedoms, it doesn't necessarily make it a good thing.;Assumption;Assumption
+344;I'm sure there are very few violent crimes in North Korea, because they have no rights.;Assumption;Assumption
+345;Freedom comes with a price.;Assumption;Assumption
+346;Criminals of course can exploit these freedoms, but that's the price we pay to live in a free society.;Assumption;Assumption
+347;The right for me to defend my family and property also allows criminals to commit violent crimes.;Assumption;Assumption
+348;"The question you have to ask yourself is; why do you draw the line at guns and not at search and seizure, right to a fair trial, right to remain silent, etc...  Getting rid of any of these would have a much greater effect on crime reduction.";Assumption;Assumption
+349;You can't ignore the fact that the UK is an Island.;Assumption;Assumption
+350;Period.;Assumption;Assumption
+351;The relative size of the country and the fact that it's fairly manageable to track weapons coming in via ships, planes, or the english channel (chunnel?;Assumption;Assumption
+352;I forget the exact name) is a huge factor in why England is able to function well with guns being outlawed.;Assumption;Assumption
+353;It's remarkably more difficult for traffickers to transport illegal guns to the UK than it would be for them to bring guns to a larger country like the US, which has long borders with Canada and Mexico.;Assumption;Assumption
+354;It's hard enough for us to keep people out of our country who aren't supposed to be there, let alone small weapons.;Assumption;Assumption
+355;So where in the UK you have a scenario where all guns can to some degree be controlled, in the US a gun ban would lead to only people involved in illicit activities like weapon and drug smuggling having the guns.;Assumption;Assumption
+356;Ultimately, just because something works in England does not mean it will work in the rest of the world, where circumstances are wildly different.;Assumption;Assumption
+357;I live more than 45 minutes away from the nearest police station and am a law abiding citizen.;None;Anecdote
+358;The only person a law against weapons hurts are those willing to follow the law.;Assumption;Assumption
+359;A criminal willing to use a weapon to commit a crime does not care for the law.;Assumption;Assumption
+360;As far as government intrusion, and the guarantee of liberty.;Assumption;Assumption
+361;"Saying ""they have tanks, so guns wouldn't help.""";Assumption;Assumption
+362;"is like saying ""a home intruder has a shotgun, so why would I want a knife?"".";Assumption;None
+363;"The point is never being in a position where someone could enforce their living will upon me or my family; the same is true against a military force.";Assumption;Assumption
+364;We will be free, or we will be dead.;Assumption;Assumption
+365;I've read that since guns are restricted in the UK people have been using acid attacks against each other,  like walking up to someone and throwing acid in their face.;Assumption;Assumption
+366;The acid can be made from common household cleaning agents and cause burns for the victim.;Assumption;Assumption
+367;That was interesting to me because I also felt the same way OP did about guns.;Assumption;Anecdote
+368;"&gt;However, I can't help but see that as a negative side effect of full liberty, because inevitably it just leads to more people getting hurt.";Assumption;Assumption
+369;That's the numbers talking.;Assumption;Assumption
+370;That's not the numbers talking, it's the BBC (i.e.;Assumption;Assumption
+371;fake news) talking.;Assumption;None
+372;Just look at their sources - pure bias.;Assumption;Assumption
+373;Take a look at [this recent article for example](http://www.bbc.co.uk/news/world-us-canada-39636104).;Assumption;Statistics/Study
+374;"""More than 30,000 people on average are killed by gun violence across the country each year, according to the Brady Campaign to Prevent Gun Violence.""";Assumption;Anecdote
+375;Which of course is a lie.;Assumption;Assumption
+376;That's the *total* number of deaths, including accident and suicide, murder, justifiable homicide and cops shooting criminals.;Assumption;Assumption
+377;People who lie to you are not your friends.;Assumption;Assumption
+378;The number of people murdered with guns, for example, is irrelevant.;Assumption;Assumption
+379;The number would be pretty much the same even if there weren't any guns available (the availability of guns make no difference to the homicide rate), but the article is trying to insinuate that the US homicide rate would be 60% lower if it wasn't for guns, which it wouldn't (note the lack of details over whether the homicide was justifiable or not - they don't seem to think it matters).;Assumption;Assumption
+380;"&gt;Yes, cars also kill people, but I don't need a gun to get to work.";Assumption;Assumption
+381;Special pleading.;Assumption;None
+382;More people are killed by cars than guns but that's okay because walking is inconvenient?;Assumption;None
+383;"&gt;With guns, the only benefits arise when a really tough intruder is in my house or when the government is trying to oppress me.";Assumption;Assumption
+384;That sounds like a trump card to me.;Assumption;Assumption
+385;"And your description of home defence (""shooting everything in sight"") is very childish.";Assumption;Assumption
+386;I have guns.;Anecdote;Assumption
+387;They are not for personal protection.;Anecdote;Assumption
+388;They are locked in a safe in my office on the opposite side of the house from my bedroom, so if someone broke in, they will not be shot.;Anecdote;Anecdote
+389;I slaughter my pigs by shooting them in the head.;Anecdote;Anecdote
+390;You can say all that stuff but that doesn't mean there's some sort of inherent male biological superiority based on pseudoscience.;Assumption;Assumption
+391;"What you read on Reddit often seems ""logical"" and flawless but TRP guys look at unfounded studies and use that to justify drinking their own kool aid";Assumption;Assumption
+392;Respect all, including self.;None;None
+393;There's extremists in this world and there are hardliners.;Assumption;Assumption
+394;Both of these who while a vocal minority of humanity, grab the global headlines as the rest of us - of every gender, skin tone, and faith - remain busy learning, teaching, designing, and working towards creating a better world.;Assumption;Assumption
+395;Because overall - we're a species of builders.;Assumption;Assumption
+396;Don't let a few steal your contribution to mankind.;None;Assumption
+397;Disregard the sexists, both male and female.;None;Assumption
+398;These, like any other toxic people will only infect you and hinder your potential for good.;Assumption;Assumption
+399;Help phase these mentalities out and do not fall prey to destroyers.;None;Assumption
+400;Honestly, I think core of this is that you have discovered men's rights issues and that you agree the lack of pursuing solutions to these problem areas is bad.;Assumption;Assumption
+401;The thing is that you discovered this on the red pill and they have their own flavor to how they approach these issues.;Assumption;Assumption
+402;Personally, I find the red pill approach lacking because the entire philosophy stems from sexual relations.;Assumption;Assumption
+403;You sound much more like you would get on well looking into the men's rights movement(MRM) or egalitarianism.;None;Assumption
+404;The MRM and red pill are different and neither consider themselves the same group in my experience.;Assumption;Anecdote
+405;Just understanding that men face unique challenges related to their gender is not enough of a reason to join red pill.;Assumption;Assumption
+406;"&gt;We always assume men to be the aggressor in any encounter.";Assumption;Assumption
+407;Women actually commit more domestic violence than men, yet we always assume it's the man who is abusive.;Assumption;Assumption
+408;"Another example, ""My husband tells me what I should wear"" Sounds bad right?";Assumption;None
+409;"How about ""My wife tells me what I should wear.""";Assumption;None
+410;The first sounds worse because we assume that a man with some power in the relationship will abuse his power, but we don't assume the same for women.;Assumption;Assumption
+411;"I mean, who is this ""we""?";None;None
+412;"No ""we"" don't always think that at all.";Assumption;Assumption
+413;Also, the gender of the perpetrator shouldn't matter.;Assumption;Assumption
+414;But the fact that the *victims* gender is skewed should tell you something about the society we live in.;Assumption;Assumption
+415;"""Similar or slightly larger numbers of men were subjected to severe force in an incident with their partner, according to the same documents.";Statistics/Study;Anecdote
+416;The figure stood at 48.6% in 2006-07, 48.3% the next year and 37.5% in 2008-09, Home Office statistics show.;Statistics/Study;Statistics/Study
+417;"The 2008-09 bulletin states: ""More than one in four women (28%) and around one in six men (16%) had experienced domestic abuse since the age of 16.";Statistics/Study;Statistics/Study
+418;"These figures are equivalent to an estimated 4.5 million female victims of domestic abuse and 2.6 million male victims.""";Statistics/Study;Statistics/Study
+419;"In addition, ""6% of women and 4% of men reported having experienced domestic abuse in the past year, equivalent to an estimated one million female victims of domestic abuse and 600,000 male victims"".""";Statistics/Study;Statistics/Study
+420;http://www.theguardian.com/society/2010/sep/05/men-victims-domestic-violence;Statistics/Study;Statistics/Study
+421;"Men and women each face different challenges in society, and there's nothing wrong with becoming an advocate for men's rights; we certainly need more of them.";Assumption;Assumption
+422;Advocating for equality for men in areas where it's lacking doesn't have to exclude doing the same for women (like some believe), and there's nothing wrong with personally focusing more on one or the other so long as true equality is actually your goal.;Assumption;Assumption
+423;The problem I see with r/theredpill is that it can be hard to distinguish their philosophy from that of pick up artists.;Assumption;Assumption
+424;"I spent a bit of time on the sub once, and every post I saw was essentially talking about how they emotionally manipulated a woman into a relationship because they didn't want to play ""their"" games.";Assumption;Anecdote
+425;Understanding that men face challenges doesn't need to be synonymous with looking down on women, but some communities have a hard time making a distinction.;Assumption;Assumption
+426;Ultimately, the group you associate with and the label you apply to yourself is your choice.;Assumption;Assumption
+427;You can focus solely on the positive and explain to others that your disagreement with the negative doesn't invalidate your support.;None;Assumption
+428;But some communities have a poor reputation, and for good reason.;Assumption;Assumption
+429;"Standing up for someone doesn't have to come at the cost of putting someone else down; pay attention to the language being used and understand that if hostility is prevalent, there are other more positive places with your same concerns.";Assumption;Assumption
+430;What you describe sounds more like the (saner wing of the) mens rights movement than it does the red pill.;Assumption;Assumption
+431;You can reasonably think that men face disadvantages on society that feminism refuses to acknowledge or handwaves away without accepting that men should treat women like shit because they enjoy it and it's the only way to be respected.;Assumption;Assumption
+432;That's the really venomous part of TRP ideology.;Assumption;Assumption
+433;"&gt;Men have to be extraordinarily careful not to sound like they are blaming women whenever they vent any sort of frustration or emotion.";Assumption;Assumption
+434;"For instance, ""Why do women like that asshole and not me?""";None;None
+435;is something that you might find mocked in /r/niceguys or /r/justneckbeardthings.;Anecdote;None
+436;"Yet if a woman says something like ""Why does that guy like the hot girl but not me?""";None;None
+437;You understand that those don't amount to the same thing, right?;Assumption;None
+438;"The gender-swapped version of ""hot guy"" is ""hot girl,"" not ""asshole.""";Definition;Definition
+439;"&gt;Being an emotional, sensitive man is a death sentence in the dating world.";Assumption;Assumption
+440;Oh come off it.;None;None
+441;Of course it isn't.;Assumption;Assumption
+442;"&gt;Male sexuality is considered shameful.";Assumption;Assumption
+443;Men are considered creepy if they have a blow up doll, for an example.;Assumption;Assumption
+444;Yet it's perfectly normal for a woman to have a collection of dildos.;Assumption;Assumption
+445;Men are shamed if they date much younger women, even if she is a consenting adult.;Assumption;Assumption
+446;"The reason owning blow up dolls are ""shamed"" is that it's seen as aberrant, which is exactly the opposite of shaming typical male sexuality.";Assumption;Assumption
+447;"As for whether it's ""perfectly normal for a woman to have a collection of dildos,"" I strongly suspect that on average women own less than one dildo, and I don't feel I should have to tell you that woman who are seen as ""sluts"" are not looked upon highly by society.";Assumption;Assumption
+448;The way I see it, I want to empower fellow men positively.;None;None
+449;They don't need to treat it as a vs. thing with genders.;None;Assumption
+450;My fellow brothers can learn, that you can attain the respect, integrity and treatment you deserve, without making it a pissing contest.;Assumption;Assumption
+451;Yes we have certain cultural mindsets on genders that no longer click well in the 21st century, but attaining this through positive proactive solutions which boosts their confidence and empowers them, is more effective.;Assumption;Assumption
+452;If there is a problem, rectify it.;None;None
+453;Equal pay:perfomance value standards in workplaces.;None;None
+454;Be nice to **everyone**.;None;None
+455;Gender exclusive insults are still insults and give rise to an illusion when one only gender is on the receiving end of it.;Assumption;Assumption
+456;When did identifying the problem that we have assholes who would call someone a 'slut' or a 'fuckboy' evolve from identifying that this person is just and idiotic bad person, to this is a gender equality problem?;None;None
+457;The answer: The illusion did become a problem, but only because we allowed it to.;Assumption;Assumption
+458;The moment you bring ego gender into it, you're contributing to the problem that started the inequality and distress.;Assumption;Assumption
+459;It's two sides of the same coin.;Assumption;Assumption
+460;Red Pillers put themselves in the same vicious cycle.;Assumption;Assumption
+461;On the grand scheme of things, it is not the most effect solution (or if it is even a solution in the first place) to the situation.;Assumption;Assumption
+462;What makes the red pill so convincing and dangerous is they do have a lot of truth to what they say and a lot of their methods do work.;Assumption;Assumption
+463;Yeah men get ducked in court when it comes to kids and divorce.;Assumption;Assumption
+464;Yes by being a scumbag you can manipulate women or by asking everyone you can eventually get someone to sleep with you.;Assumption;Assumption
+465;But really is that life you want to lead?;None;None
+466;Do you really want to be just another scum bag, who hates women and is constantly at war with society and an entire gender.;None;Assumption
+467;Those are actual humans as well, they have wants, goals and dreams and people on that sub see them as loving flesh lights that they have to manipulate and avoid.;Assumption;Assumption
+468;Hey OP, if you're interested in discussing men's issues in a serious, mature way with people who are *not* pushing a certain agenda, feel free to check out /r/MensLib!;None;None
+469;It's a small sub but it's great.;None;Assumption
+470;I am over weight, have short hair, wear baggy clothes, I don't wear make up, in short, I'm unattractive to most men.;Anecdote;Anecdote
+471;Throughout my life most men either ignored me or treated me like crap.;Anecdote;Anecdote
+472;Men rarely smile at me, when I go places men don't give me free things (except once), men don't bend over backwards for me, I've been punched in the face ( because we were arguing about something, I didn't hit him first), I've been called ugly to my face, most men don't stand up for me, exc.;Anecdote;Assumption
+473;Even though I've been asked out over ten times, I still said no in part because of my sexuality and the fact that they only asked me out because they were desperate.;Anecdote;Anecdote
+474;The men on TheRedPill that talk about how wonderful men are and will do anything for a woman, even though it's true, only happens to really attractive women.;Assumption;Assumption
+475;All I do is laugh because it's not true for me.;Anecdote;None
+476;The women that men on TheRedPill complain about are young, attractive, slim, exc, that don't want to date them.;Assumption;Anecdote
+477;Just to clarify I don't hate men, I'm not saying they should lower their standards, I'm not blaming them for anything, I'm not saying all men are the same, I'm not saying it's wrong for men to like certain women either.;None;None
+478;How exactly do queer and intersex people fit into this RP stuff?;None;None
+479;Do lesbians care about the status of their partners?;None;None
+480;Do gay men want a promiscuous partner or a virginal partner?;None;None
+481;There are ALOT of generalizations in your post.;Assumption;None
+482;"There have been ""Women have it worse"" and ""Men have it worse"" CMVs before and both have good examples of problems specific to one gender.";Anecdote;Assumption
+483;"I think it's better to describe it as ""people who don't fall within society's expectations of their gender have a harder time than those who do"".";Assumption;Assumption
+484;For example, on MasterChef, Leslie the stay-at-home dad got made fun of when stay-at-home moms didn't.;Anecdote;Assumption
+485;And I had some classmates who were women in CS at less friendly universities who got harassed for their gender.;Anecdote;Anecdote
+486;Not all RP views are completely and utterly wrong.;Assumption;Assumption
+487;In fact, it's hard for anything to not have a shred of good advice.;Assumption;Assumption
+488;If I told you the best way to do well on a test is to set your neighbor's house on fire, try to summon Chtullu, paint '100' on your nails, study, and then take a practice exam, there's still valid advice in there even surrounded by all the nonsense.;Assumption;Assumption
+489;RPs can be right about disadvantages men face and that people who have good qualities will have an easier time finding a date than people who have nothing going for them (And this applies for both genders.;Assumption;Assumption
+490;Do men blindly marry whichever woman they meet who's alive without considering her looks, personality, talents, etc?;None;None
+491;), but it doesn't mean they're reasonable or being productive to react by holding any of the ridiculous, offensive things someone else compiled: https://www.reddit.com/r/changemyview/comments/3zawag/cmv_i_believe_the_red_pill_is_a_valuable_resource/cykl6p1 Is a girl who grew up abused by her male relatives 'reasonable' if she gets back at men by abusing her sons?;Anecdote;Anecdote
+492;"I think you have some wrong ideas about the ""current mainstream narrative"" that you are comparing the red pill ideology to.";Assumption;Assumption
+493;The mainstream narrative about gender didn't just pop out of nowhere: it has arisen from decades of study and, being mainstream, represents the consensus of the scientific community.;Assumption;Assumption
+494;All of the points you bring up above, inasmuch as they are true and can be backed up with reliable studies, are consistent with the mainstream model of gender.;Assumption;Assumption
+495;This is the nature of scientific consensus: it tends to be consistent with available evidence.;Assumption;Statistics/Study
+496;To contrast, the red pill ideology is totally non-scientific.;Assumption;Assumption
+497;It does not represent the consensus of any scientific community.;Assumption;Assumption
+498;I am not aware of (although they may exist) any serious sociological researchers who subscribe to red pill philosophy.;None;None
+499;"""Taking the red pill"" is intellectually no different from believing in a flat earth or any other such unscientific idea.";Assumption;Assumption
+500;Now, it may be the case that the normative statements (views about how reality ought to be) made by the red pill are valid.;Assumption;Assumption
+501;Despite this, their positive statements (their views about reality) are unscientific, and this should be sufficient to reject the entire ideology out of hand.;Assumption;Assumption
+502;I used to hate them, and think they really were messed up.;None;Anecdote
+503;"TRP focuses on ""improving yourself"" including your social standing and your perceived ""Social Market Value.""";Assumption;Assumption
+504;I thought it was bunk until I switched career paths.;Anecdote;Anecdote
+505;I soon realized that 'social class' is well and alive in America, and it's comprised of both the perceived status/prestige of a job and the take-home pay.;Anecdote;Anecdote
+506;I didn't realize this until I found out that working to revolutionize a transit system meant I wore a hi-visibility jacket and drove a truck- if I tried to talk to a woman, she'd look at me like I was scum.;Anecdote;Anecdote
+507;I'm 6' tall, wealthy from prior jobs and the like, funny, outgoing, attractive, fit, and educated.;Anecdote;Anecdote
+508;"But the moment that hi-viz jacket went on and I was relegated firmly to a lower caste, the 'blue collar,' caste, or as though I was ""the help,"" in the sense that a British aristocrat would be offended to be made to associate with someone like me.";Anecdote;Anecdote
+509;......................;None;None
+510;HOWEVER.;None;Assumption
+511;I dated a girl for a long time who didn't care that I made five figures instead of six, and that I biked to work instead of driving a BMW.;Anecdote;Anecdote
+512;She was, in fact, *more* interested in me because of it.;Anecdote;Anecdote
+513;"Even though TRP says ""AWALT,"" the truth is, nowhere near all of them are.";Testimony;Assumption
+514;She wants to do a tiny house project, and live a humble life.;Anecdote;Anecdote
+515;If all women were obsessive over status and the like, it wouldn't make much sense for her to be the way she is.;Assumption;Assumption
+516;"&gt;I don't agree with all of RP views, and I hate that they are correct about these things, but I believe they are more right than the current mainstream narrative.";Assumption;None
+517;Part of me wonders if I am just suffering from Stockholm syndrome, because I spend a lot of time reading their subreddit.;Assumption;Anecdote
+518;CMV.;None;None
+519;Don't worry, this is normal.;None;None
+520;This is something I feel intensely passionate about.;None;None
+521;I'm vegetarian but I still think dogs have a particularly special place in regard to the human canine relationship.;Anecdote;None
+522;Dogs and humans have evolved alongside one another in a symbiotic way.;Anecdote;Assumption
+523;We benefit one another.;Assumption;Assumption
+524;This has resulted in a very unique bond.;Assumption;Assumption
+525;Dogs have evolved to trust humans.;Anecdote;Assumption
+526;They are the only animals to communicate with humans via eye contact.;Anecdote;Assumption
+527;Think about it.;Assumption;None
+528;You're dog looks you in the eye when you are talking to it or it wants to communicate something with you.;Assumption;Assumption
+529;No other animals do this.;Assumption;Assumption
+530;They are tuned into our emotions.;Assumption;Assumption
+531;They know how to read if we are happy, angry or upset.;Assumption;Assumption
+532;Some dogs (like mine) have even evolved to copy human smiling - which does result in a creepy look but they're trying!;Assumption;Assumption
+533;Ultimately they have evolved to trust us and help us.;Assumption;Assumption
+534;They have never been meat to humanity and to betray their trust of us in such a way makes me ashamed to be human.;Assumption;Assumption
+535;"&gt;What about cows, pigs, chickens, turkeys, etc that we eat?";None;None
+536;"None of these are ""predator"" animals.";Assumption;Assumption
+537;A dog is naturally a predator animal that is descended from wolves which eat meat.;Assumption;Assumption
+538;As we were once hunters and still are we have a very strong connection to other hunter species and respect them.;Anecdote;Assumption
+539;Its because we can form hunting bonds with dogs, and cats we can live mutually exclusively.;Anecdote;Assumption
+540;Pigs don't provide anything except meat.;Assumption;Assumption
+541;Cows provide milk and chickens provide eggs but can they defend your homestead against other predators or other hunters?;Other;None
+542;Not really.;Other;None
+543;A dog can though, A cat can go against most vermin.;Other;Assumption
+544;In the wild if it was me against a dog, nature doesn't give a shit and a dog would easily eat me and I would eat it.;Assumption;Assumption
+545;But we live in society and dogs love society and we should respect them for that.;None;Assumption
+546;In short dogs are our bros. Hunters don't eat other hunters, mainly because its too dangerous but for humans today, its out of respect for how rare  some hunters are and that we are on the same side.;None;Assumption
+547;The dogs in the festival aren't cattle dogs.;Assumption;Assumption
+548;They are dogs that are kidnapped from families in order to be eaten.;Assumption;Assumption
+549;This, on top of the biological differences that set dogs apart from other animals makes the festival very immoral.;None;Assumption
+550;"&gt;What about cows, pigs, chickens, turkeys, etc that we eat?";None;None
+551;None of those things are domesticated by humans for human companionship, at least not by anyone who isn't a cast member of Green Acres or something close to it.;Assumption;Assumption
+552;I'd say the difference is that Yulin is a celebration.;Assumption;Assumption
+553;If some asshole goes to a slaughterhouse and cheers as the cows get slaughtered but opposes Yulin, that guy would be a hypocrite.;Assumption;Assumption
+554;The difference of opinion on eating dogs versus other domesticated animals is not one of morality, but rather it is the nature of the domestication.;Assumption;Assumption
+555;The most pervasive theory on the origin of the modern dog is that humans began the relationship by taking docile pups and using them to help hunt, guard camps, and other utilitarian purposes.;Assumption;Assumption
+556;"Modern dogs have evolved alongside humans to perform all kinds of different tasks; we have bred them to hunt, herd, and guard for us.";Anecdote;Assumption
+557;We have even bred them for purely aesthetic purposes, i.e.;Anecdote;Assumption
+558;"""cute,"" ""tall,"" ""short,"" etc.";Anecdote;None
+559;In the west, this utilitarian view of dogs is pervasive and is akin to horses (which are also not seen as a source of food).;Anecdote;Assumption
+560;While other cultures do not see dogs in a similar fashion, the evolution of the modern dog was not based on being a food source, it is based off of their utilitarian traits.;Assumption;Assumption
+561;This, and only this, is the distinction between eating, say, a cow or a pig (domesticated and bred for the purpose of being a food source) and eating a horse or a dog (domesticated to assist us with various tasks).;Assumption;Definition
+562;I think a good analogy would be the difference between roses and corn.;Assumption;None
+563;Both are domesticated plants, but the rose was domesticated because some humans decided it was pretty, while corn was domesticated because some humans figured out it was edible.;Assumption;Assumption
+564;"If you want to read more about the domestication and evolution of dogs:
+
+http://www.smithsonianmag.com/smart-news/humans-may-have-domesticated-dogs-24000-years-earlier-thought-180955374/?no-ist
+
+https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog";Statistics/Study;Statistics/Study
+565;This is not a view you should want to change.;None;None
+566;People here will say that dogs deserve more rights than other species because of their history as our companions, but that isn't a logical reason.;Assumption;Assumption
+567;It doesn't change the fact that all of the animals people eat feel just as much pain and are often just as intelligent as dogs.;Assumption;Assumption
+568;The only real reason someone would want to change their view on this topic would be to justify their own eating habits and not have to change a lifestyle they enjoy.;Assumption;Assumption
+569;They do not complain about it because people eat dogs.;Assumption;Assumption
+570;That isn't the issue.;Assumption;Assumption
+571;The issue is how the dogs are treated particularly on this holiday.;Assumption;Assumption
+572;You have thousands of dogs ready for slaughter.;Anecdote;Assumption
+573;They see other pups being slaughtered.;Anecdote;Assumption
+574;Because of the sheer number, many are put to be boiled alive.;Anecdote;Assumption
+575;Many are beaten to death to cause release of adrenalin because supposedly that tastes better.;Anecdote;Assumption
+576;It is an extremely cruel and torturous day for these animals.;Anecdote;Assumption
+577;Those against Yulin are not against the eating of dogs in particular, but the treatment and torture of these dogs.;Assumption;Assumption
+578;Not to mention the sanitary health conditions involved on this day.;Assumption;None
+579;Because of this holiday many loving pet owners have to worry about their dog being stolen and butchered.;Assumption;Assumption
+580;"http://time.com/2891222/yullin-festival-dog-meat-china/
+http://www.independent.co.uk/news/world/asia/chinese-yulin-dog-meat-festival-activists-fight-back-in-support-of-event-which-will-see-10000-cats-10326736.html#gallery";Statistics/Study;Statistics/Study
+581;All animals were created equal, but some animals are more equal than others.;None;Assumption
+582;I feel bad when I squash a ladybug, but not when I squash an ant.;Anecdote;None
+583;It's bigger news when a child dies than when an old person dies.;Assumption;Assumption
+584;People love dogs like they love children, people do not generally love chickens, cows or pigs like children.;Assumption;Assumption
+585;We are predators, and eating animals that are prey is a natural phenomena.;Assumption;Assumption
+586;There's a line we have made as to what is acceptable prey.;Anecdote;Assumption
+587;If we lived in a different culture, it might be okay to eat other people.;Assumption;Assumption
+588;That is not accepted here, and neither is eating dog.;Assumption;Assumption
+589;You are right, we are only bothered by it because things are only wrong if they are different from what a group believes.;None;Assumption
+590;Nobody is upset that the nuggets they feed their kids are male chick's still living being ground up into a goo.;Assumption;Assumption
+591;We accept halal, and kosher methods of meat prep, both require an animal to bleed out.;None;Assumption
+592;It's a cultural bias plain and simple.;Assumption;Assumption
+593;For some reason, *nobody* here has mentioned that people are *kidnapping* pet dogs to eat.;None;Assumption
+594;[There's hundreds of reports of pets being found, with their name tags on and everything, in a truck bound for slaughter.;Anecdote;Assumption
+595;"](https://www.google.ca/search?espv=2&amp;q=dog+theft+in+china&amp;oq=chinese+dog+festival+dognapping&amp;gs_l=serp.1.0.0i71l5.0.0.0.6584.0.0.0.0.0.0.0.0..0.0....0...1c..64.serp..0.0.0.f_7GoizppBQ)
+
+In fact, there's no evidence of any farms where dogs are bred.";Anecdote;Anecdote
+596;Because dogs are rare delicacies, that [**suggests that most dogs eaten in China were stolen from the street or from their owners.;Anecdote;Assumption
+597;**](http://www.bbc.com/news/magazine-33283694) That's bad from a public health standpoint as well as a property-rights one, because these street mongrels may be infested with garbage-worms and poisoned with industrial pollutants.;Anecdote;Assumption
+598;"I think you've trivialized the ""pet"" aspect a bit.";None;None
+599;Dogs have evolved alongside humans for millions of years as companions, whereas many of the animals that we traditionally eat in the west evolved as food animals.;Assumption;Assumption
+600;It is immoral to eat dogs because that is not their intended purpose according to millions of years of evolution and human behavior.;Assumption;Assumption
+601;As a result, dogs are much more useful as companions, security guards, and hunting partners than they are as food.;Assumption;Assumption
+602;Eating dogs is bad for the same reasons that human cannibalism is bad.;Assumption;Assumption
+603;I should note that my position is toward dogs and dogs only.;None;None
+604;Cats are a much more recent addition to human life and are far less useful from a security or hunting perspective, so they are not part of the equation.;Assumption;Assumption
+605;Horses are arguably more useful alive than dead, but they too are a much more recent addition to human life, so they don't count either.;Assumption;Assumption
+606;All other pets are, for the most part, useless from a utilitarian perspective and are more recent as well.;Assumption;Assumption
+607;I actually agree with you, but the main argument against this is the intelligence of the animal.;Assumption;Assumption
+608;Dogs are highly intelligent, and thus killing and eating them is seen as far more cruel than doing the same to an animal of lesser intelligence and awareness, like a chicken.;Assumption;Assumption
+609;The difficulty and controversy comes in where people draw the line.;Assumption;Assumption
+610;Pigs are intelligent animals yet are seen as acceptable to eat in the West.;Anecdote;Assumption
+611;Whereas in countries such as China some people draw the line even further up the scale of intelligence.;Anecdote;Assumption
+612;"&gt; If you're against it, you might aswell become vegan and don't eat all the other animals either.";None;Assumption
+613;Once I started thinking about this, it was a big part of my motivation to go vegan.;Anecdote;Anecdote
+614;"&gt; There's an argument that we have them as pets, but imo that doesn't justify it  ";None;Assumption
+615;It's a huge difference though.;None;Assumption
+616;Some people have spiders or mice as pets, but I am not sure you'd hesitate to wipe them out of your house, pantry or bedroom, right?;None;None
+617;The relationship we form with a species is very important when determining what is moral or not.;Assumption;Assumption
+618;"&gt;  If you're against it, you might aswell become vegan  ";None;Assumption
+619;Vegan is different than a vegetarian or humanitarian.;Assumption;Assumption
+620;A vegan is a dogmatic approach that proposes that humans should not make any use of any animal product, not even eggs, honey nor silk.;Definition;Definition
+621;Vegetarianism is a diet, veganism is an identity, almost religious.;Definition;Definition
+622;Please don't confuse the two.;None;None
+623;There are gradients of approaches to this issue, where skinning dogs alive for fun is one extreme, and going full violent vegan is another.;Assumption;Assumption
+624;How about recognizing that eating animals is still a part of humanity we have been unable to leave behind, but reducing quantity and slaughter suffering is a necessity?;None;Assumption
+625;This is a step in the right direction.;None;None
+626;"Otherwise your position is ""extremism or hypocrisy"" which is becoming popular on social media where you have to make rocket launchers legal in order to get guns, or ban baseball bats in order to control guns...ridiculous argument.";None;Assumption
+627; I really appreciate the question and following conversation.This documentary is about our systems of feeding ourselves on a global scale,to say the least.;Assumption;Assumption
+628;Narrated by Joaquin Phoenix.;Testimony;Anecdote
+629;No matter your view there is information that most people could use to make their decisions.;Assumption;Assumption
+630;https://www.youtube.com/watch?v=GVE6eZCJZv8;Anecdote;Anecdote
+631;Dogs are of similar puzzle-solving intelligence to many farm animals, and probably lower than pigs there, but are of higher social/emotional intelligence.;Assumption;Assumption
+632;There are plenty of animals that we are discovering are quite high on the raw intelligence scale (crows, parrots, etc), but it is really the level of social intelligence that governs how much we empathize with these animals.;Assumption;Assumption
+633;Monkeys, apes, whales, dolphins, elephants, dogs.;None;Assumption
+634;"All of these are animals that are able to feel ""love"" as we understand it for members outside of their direct family group ([though dogs are limited on some higher-order emotions that we sometimes assume they have](https://www.psychologytoday.com/blog/canine-corner/201303/which-emotions-do-dogs-actually-experience)).";Statistics/Study;Assumption
+635;It's because of the empathy we can feel for these animals that they fall in separate category when it comes to the people who step forward to defend them in cases like these.;Assumption;Assumption
+636;For dogs, especially, since they are raised as companions, we see these social behaviors firsthand as well as the range of their emotions.;Assumption;Assumption
+637;"So while from a ""capability to suffer"" standpoint this does not separate a dog from a chicken (unless we consider the suffering of the survivors), this should at least explain why people emotionally categorize chicken separately from dogs, and also why those categorizations are not totally invalid.";Assumption;Assumption
+638;I would note that at least for pigs, studies have demonstrated a fairly sophisticated emotional intelligence, so arguments to separate them from dogs lose most ethical footing and mostly boil down to suitability as a companion.;Statistics/Study;Assumption
+639;As you said, pigs can be pets, too, but they are harder to train, messier, don't bond as easily with humans, and aren't as well-suited to be working animals.;Assumption;Assumption
+640;The only real argument against your logic is that it isn't hypocrisy.;None;Assumption
+641;Most people are completely aware that various animals can be kept as pets despite being good food in our culture as well.;Assumption;Assumption
+642;However, when people are against the killing of dogs for food, or cats, it's because people grew up having them as pets.;Assumption;Assumption
+643;We in our culture have formed a bond very closely.;Anecdote;Assumption
+644;While some people might have had other various animals as a pet, such as a pig you have mentioned in another post, we grew up in a culture where eating them is not a big deal.;Anecdote;Anecdote
+645;When it comes down to it, it's not hypocrisy but rather cultural differences based on emotion.;Assumption;Assumption
+646;If I were to not nitpick your wording, you're otherwise correct.;None;None
+647;"http://news.nationalgeographic.com/news/2013/03/130302-dog-domestic-evolution-science-wolf-wolves-human/
+
+Dogs likely chose us.";Statistics/Study;Statistics/Study
+648;They came to us out of friendship and loyalty and have stayed by our side evolving with us since the dawn of time.;Anecdote;Anecdote
+649;They understand our gestures better than any other animal, even more so than chimps.;Assumption;Assumption
+650;Seems like a total immoral betrayal to start farming them and using them just for food.;None;Assumption
+651;Everyone has to draw a line somewhere between what they think is acceptable to eat and what they don't.;Assumption;Assumption
+652;This argument is strange.;None;Assumption
+653;"It's a really weird semantic""gotcha"" type approach.";None;Assumption
+654;You've essentially told someone they wouldn't have car trouble if they didn't have a car.;None;Assumption
+655;Well, yeah.;None;None
+656;But that's silly if you know that person wants a car.;Assumption;None
+657;They just also want it to be reliable, so getting rid of it isn't really a solution.;Assumption;Assumption
+658;Similarly we would like for people to be around and would also like them to be happy or minimize suffering.;Assumption;Assumption
+659;Pointing out that suffering goes away when people go away is silly because it ignores the implicit fact that we want people to be around.;Assumption;None
+660;If you wanted to do something about your leaky roof would suicide be an option you'd consider?;None;None
+661;I mean your worry about the roof goes away right?;None;None
+662;See how silly that is?;None;None
+663;"The only goal of Utopia were to ""reduce"" suffering, then you would have a point.";Assumption;Assumption
+664;You say to this objection:;None;None
+665;"&gt;the positive qualities exist for the end of preventing suffering.";Assumption;Assumption
+666;"When I listen to music, or look at a fantastic sunset, or play hide and seek with a laughing child, it is not ""to reduce suffering""";Anecdote;Assumption
+667;"&gt; the positive qualities exist for the end of preventing suffering";Assumption;Assumption
+668;I object to this part.;None;None
+669;There is more to happiness/satisfaction/contentness/whatever than just not suffering.;None;Assumption
+670;You can be varying degrees of happy.;Assumption;Assumption
+671;A world where a few people suffer and many are super-happy is better than a world where nobody suffers and nobody is happy.;Assumption;Assumption
+672;We can argue about different types of doing the calculation, like whether it's total happiness or average happiness that matters, but in both cases a world with no people will be either mediocre (average utility zero) or terrible (total utility zero).;Assumption;Assumption
+673;Most people don't kill themselves, so we can be confident that most people think their lives have more happiness than suffering.;Assumption;Assumption
+674;Extinguishing them will reduce more happiness than it would reduce suffering, driving both total and average value *down*.;Assumption;Assumption
+675;EDIT: One objection you have that is related to that is;None;None
+676;"&gt; So-called higher pleasures - art, music, intellectual pursuits - are all subservient to these needs, as they either function to A: distract us from unmet needs in ourselves or others or B: exist to facilitate the goal of meeting these needs.";Assumption;Assumption
+677;If this were true then there is no super-happy people, only people who are as happy as dead people (i.e.;Assumption;Assumption
+678;not suffering).;Assumption;None
+679;But we know from observation that most of the people who enjoy higher pleasures are people who already met their base needs, so A can't be true for everyone, and B only makes sense if all the people buying the entertainment are doing so because of A.;Assumption;Assumption
+680;Suffering is much more than unmet needs.;None;Assumption
+681;"It comes from the words *sub* (beneath) and *ferre* (to carry) - to suffer is to be oppressed by what one is carrying, in other words to be in resistance to ""what is.""";Definition;Assumption
+682;Without suffering, pain and unhappiness are a series of ephemeral sensations.;Definition;Assumption
+683;"Suffering is a dynamic process where ""This must not be so"" meets ""And yet it is.""";Assumption;Assumption
+684;It's an augur that makes us deep.;Assumption;Assumption
+685;Because it is so uncomfortably compelling, suffering is one of the most powerful ways that we learn the nature of what is and how to be in alignment with reality.;Assumption;Assumption
+686;The goal of so many spiritual teachings is to end suffering, but thats not because suffering is bad, it's because suffering is replaced by equanimity when we are both present and non-resistant.;Assumption;Assumption
+687;Peace and equanimity are spiritual goals and suffering is one of the important tools that bring us closer to them.;Assumption;Assumption
+688;When the jewel is polished, the grinder is no longer needed.;None;Assumption
+689;There are other ways to polish a jewel - it could be put into an idealized tumbler (societal utopia).;Assumption;Assumption
+690;Your CMV is a comparison of mechanisms for lapidary.;None;Assumption
+691;Throwing away the jewel is not a valid way to polish it.;Assumption;Assumption
+692;Would you deny that some suffering is good?;None;None
+693;It is factually correct that you would eliminate human suffering once the entire species was extinct.;Assumption;Assumption
+694;However I have the feeling you are implying that it would be a good thing.;None;None
+695;You are arguing in a vacuum.;None;Assumption
+696;That is, you have set the reduction of human suffering as the *only* goal, and thus have framed the problem incorrectly.;Assumption;Assumption
+697;The correct framing is the problem is that humans desire to be alive and survive, *and in that context*, want to reduce suffering.;Assumption;Assumption
+698;Therefore, any solution to reducing human suffering *must* include humans surviving otherwise it is pointless.;Assumption;Assumption
+699;The value isn't simply in reduction of suffering as a mathematical function.;Assumption;Assumption
+700;It isn't a *reduction* problem, but an *optimization* problem.;Assumption;Assumption
+701;How does one get through a long and happy life with minimal suffering?;None;None
+702;Your answer is true, but it is a trivial answer for a trivial problem that nobody actually cares about.;None;None
+703;"I would make a counterpoint; if not a logic one, then differing ethical philosophy.";None;None
+704;Death would end suffering, but it also ends positive emotions like joy.;Assumption;Assumption
+705;I would argue the a true utopia requires more than just the absence of suffering, it requires positive emotions to well outweigh the negative.;Assumption;Assumption
+706;Note many people would happily undergo suffering for the sake of also gaining joy/happiness, this suggests suffering is not the only concern for good and bad.;Assumption;Assumption
+707;Like everyone else in this thread I can only dispute that ending human suffering is the ultimate goal.;None;Assumption
+708;Hedonistic Utilitarians argue that the only meaningful end is happiness.;Testimony;Testimony
+709;Therefore the best action is one that maximizes happiness.;Testimony;Assumption
+710;Suffering is bad because it detracts from happiness but a situation in which some suffering results in greater happiness is morally superior to one with neither happiness nor suffering.;Assumption;Assumption
+711;Essentially heaven and hell is better than purgatory as long as there is more pleasure in heaven than suffering in hell.;Assumption;Assumption
+712;The only Utilitarian I've read who focused on suffering as much as you do is Peter Singer.;Anecdote;Anecdote
+713;However, even Singer implicitly proposes that death is worse than suffering.;Testimony;Assumption
+714;Though they may not realize it, most humans through their actions demonstrate a belief that most suffering is better than death.;Assumption;Assumption
+715;So where is your basis that ending suffering is the primary goal of humanity?;None;Assumption
+716;"&gt;All human suffering originates in unmet needs.";Assumption;Assumption
+717;We hunger so we eat, if we cannot eat when hungry, we suffer.;Assumption;Assumption
+718;You sound like the Buddha.;None;Assumption
+719;"&gt;unconscious beings do not have suffering";Assumption;Assumption
+720;True, but there is also no experience and thus no utopia.;Assumption;Assumption
+721;Death cannot be compared to life because in death there is no experience.;Assumption;Assumption
+722;The concept of utopia ceases to exist when all conscious beings capable of contemplating the concept are removed.;Assumption;Assumption
+723;"Utopia ceases to have a meaning, good and bad ceases to have a meaning, and ""death is a problem for the living,"" thus I argue it is meaningless to even try to compare the conscious experience with the lack of any conscious experience at all.";Assumption;Assumption
+724;Its the whole apples and oranges issue.;None;Assumption
+725;"Even somebody who is living a life of endless torture cannot say death is ""better"" only that death is an option.";Assumption;Assumption
+726;OP, are you a weaboo?;None;None
+727;Did somebody just finish watching Evangelion?;None;None
+728;And yes, let's do keep it short :);None;None
+729;"So, the whole point of the show is that yes, everyone chanting ""come sweet death"" will in fact end all human suffering.";Assumption;Assumption
+730;Yes, we are all fickle, weak little things living in a cruel world and even for the luckiest among us, life is still about 90% suffering.;Assumption;Assumption
+731;Imperfections within our individual selves cause suffering, misunderstandings amongst each other cause suffering, and of course all basic physical needs that aren't sated also cause suffering.;Assumption;Assumption
+732;Anyway...;None;None
+733;The reason why we haven't killed ourselves off, besides fear of death itself, is because of happiness.;Assumption;Assumption
+734;It's a bit heavy handed, bear with me, but happiness... happiness does not mean the absence of suffering, far from it, but is entirely its own thing and hand waving it as a simple distraction is a little myopic, non?;None;None
+735;Death accomplishes the end of suffering, but this is not why we live.;Assumption;Assumption
+736;"We do not live to end suffering; we bear it and push forward to attain cute little moments of happiness.";Assumption;Assumption
+737;These moments are what we look back towards in nostalgia, what we recount to friends and family over food, why we still wake up every morning and do our best.;Assumption;None
+738;Carpe diem, as they say.;None;None
+739;"We're all going to die anyway; Death can wait a little longer.";None;Assumption
+740;My argument depends on you agreeing that human experience is sliding scale with one end being suffering, and the other being pleasure/happiness.;None;Assumption
+741;Negative suffering is happiness, and negative happiness is suffering.;Assumption;Assumption
+742;Unless you believe that for a person to be happy another person must suffer equally, then a net positive utopia is achievable and therefore it is possible for it to have a lower amount of suffering (a net positive human life experience overall) than mass extinction.;Assumption;Assumption
+743;"Mass extinction would guarantee a net zero life experience over the entirety of humanity, however unless you believe human happiness is zero-sum, utopia will always be able to achieve ""negative"" suffering.";Assumption;Assumption
+744;"&gt; Answer: Not everyone agrees with participating in attaining a utopia, either.";None;None
+745;"Consider equal distribution of property as a utopian ideal; many would disagree with that ideal from self-interest.";Assumption;Assumption
+746;First, I would like to clarify that arguments against a certain utopian vision in particular don't carry to utopianism as an ideal.;Assumption;None
+747;Second, I would be interested if you could defend your claim that positive experiences are subsumed in moral conversation by the avoidance of negative experiences (suffering).;None;None
+748;Your argument seems to hinge on ignoring real happiness as a counterpoint to suffering.;None;Assumption
+749;An extinction would eliminate human suffering, but it would also eliminate happiness, and so far you are sweeping that under the rug without rigorously explaining why.;Assumption;Assumption
+750;"This is actually a well-used argument in competitive debate, especially Worlds and other parliamentary &amp; extemp styles.";None;Assumption
+751;For the life of me, I can't remember the scholar/philosopher that everyone cites.;None;Anecdote
+752;Anyone happen to know?;None;None
+753;You're right, we have needs and if they're not met then we suffer.;None;Assumption
+754;But I think you're missing that many things we do we don't because we *need* to, we do them because they're pleasurable.;Assumption;Assumption
+755;There's no suffering in death but there's also no pleasure.;Assumption;Assumption
+756;For most people the pleasurable aspects of life outweigh any suffering.;Assumption;Assumption
+757;For those for whom the suffering outweighs the pleasure then yes, I'd agree that death is preferable but that's a small minority.;Assumption;Assumption
+758;You're overvaluing the concept of suffering.;None;Assumption
+759;Everything you say falls apart If you can convince the value of suffering in ones life.;None;Assumption
+760;Life isn't about avoiding suffering, but attaining the strength to persevere in spite of it.;Assumption;Assumption
+761;Society agrees, the stories we love almost universally contain conflict.;Anecdote;Assumption
+762;We don't have movies of people enjoying quiet contentment void of suffering and if we do, no one is watching those.;Anecdote;Assumption
+763;No one's goal is to sit in quiet bliss popping somas every day as a collective  society.;Assumption;Assumption
+764;Your argument is internally sound but only when you use an assumption about society's goals that are not in line with reality.;None;Assumption
+765;You know why this is true?;Other;None
+766;Because even if your argument seems true on paper, it's still a completely useless string of thinking.;Other;Assumption
+767;No one is going to take this, agree, and try to end humanity.;Assumption;Assumption
+768;Why?;Other;None
+769;Because they dont have a requisite opinion on the value of the absence of suffering that would be required to do anything with this logic.;Other;Assumption
+770;Suffering isn't bad, it shouldn't be avoided, it should be embraced.;Assumption;Assumption
+771;I recommend a letter Oscar Wilde wrote while in prison on the subject of suffering, *De Profundis*.;Testimony;Anecdote
+772;It's thick but it reframed my views greatly about the concept of suffering.;Anecdote;Assumption
+773;"tl;dr 
+
+Extinction does not reduce human suffering at least as well as achieving an utopia would, it removes the humans who suffer.";Assumption;Assumption
+774;Satisfying needs quantifies an overall feeling of accomplishment (some basic needs like food which are necessary, some needs like internet which are not necessary to survive).;Assumption;Assumption
+775;"By ""quantifies"" I mean that, by your definitions, happiness is proportional to satisfied needs.";Definition;Definition
+776;For extinction to reduce suffering, it means that this quantified feeling is somehow improved, compared to now.;Assumption;Definition
+777;For extinction to reduce suffering at least as well as a utopia, means that I can compare this overall feeling of accomplishment in satisfying my needs.;Assumption;Assumption
+778;But extinction does not reduce suffering, it removes suffering by removing needs.;Assumption;Assumption
+779;You can say that removing needs is equal to satisfying them (I have the need to eat, I built a system that keeps me alive without eating, the need of eating is satisfied) but without me being aware of that what you have achieved is not reducing suffering but removing the object which suffers.;Assumption;Assumption
+780;In other words, suffering of a conscious being exists only if the conscious being exists as well.;Assumption;Assumption
+781;There is no suffering to be improved without something that suffers being aware of it.;Assumption;Assumption
+782;You remove the need to boil the water before making coffee by removing coffee.;None;Assumption
+783;We could try to aim for both.;None;Assumption
+784;First we must find out how to create replicas, sims on nano-computers of our brains - and then we could morph into everlasting and all-need-fulfilling creatures - and we can simply let the physical part of ourselves perish.;None;Assumption
+785;No, it's not the same as achieving an utopia.;None;Assumption
+786;Extinction would reduce suffering to 0, yes, but it would also reduce happiness to 0, while an utopia would only reduce suffering, while still mantaining, or even raising, happiness.;Assumption;Assumption
+787;"I feel like there's some confusion here on what it means to be on the ""wrong side of history"".";None;None
+788;Social Conservatives can lose to time by failing to maintain the status quo, but change doesn't necessarily mean it was positive change.;Assumption;Assumption
+789;Obviously the advancement of human rights is an example of positive change, but not all causes are as just as seen elsewhere in this discussion.;Assumption;Assumption
+790;Would you say that Mao Zhedong was on the right side of history?;None;Anecdote
+791;His Great Leap Forward resulted in 800,000 deaths as a result of classicide and 712,000 deaths in the suppression of Counterrevolutionaries (aka conservatives).;Anecdote;Assumption
+792;You're suffering from confirmation bias - remembering all the big, noticeable social changes that have occurred over the years, and seeing that conservatives were against them and lost.;Definition;Assumption
+793;What you do *not* see is all the big, noticeable social changes that *did not* happen, because conservatives were against them and won.;Assumption;Assumption
+794;Liberals have had a variety of stupid ideas of the years.;Anecdote;Assumption
+795;Wanting to turn the country communist/socialist is a perennial favorite, and we should all be glad the conservatives have stopped them on that account.;Anecdote;Assumption
+796;The anti-vaccer movement was primarily a liberal phenomenon, and conservatives (and centrists) rightfully mocked it sufficiently to keep it form ever catching on.;Anecdote;Assumption
+797;Tree-huggers killed nuclear power on this country decades ago, and that's an example where the conservatives fought a stupid idea and lost.;Anecdote;Assumption
+798;And etc.;None;None
+799;It's hard for even me to come up with examples because of confirmation bias - because these non-events are hard to remember and don't get recorded - but take a glance at the Green Party platform for a partial list of modern stupid liberal ideas rightfully being resisted by conservatives;Anecdote;Assumption
+800;The way you define them automatically puts them on the wrong side.;Assumption;Assumption
+801;Were social conservatives on the wrong side when Greece and Rome fell because everyone was too busy fucking each other?;None;None
+802;Were they on the wrong side when opium addiction toppled entire nations?;None;None
+803;Okay, let me just throw one example out and you can let me know if you need more.;None;None
+804;I'm actually mostly liberal, but these days that's considered conservative.;Anecdote;Anecdote
+805;The students at Evergreen are social progressives:;None;Anecdote
+806;- They have literally stated that they're against free speech.;Assumption;Assumption
+807;I mean they actually said this directly, and it's on video (was covered on Vice).;Assumption;Assumption
+808;A social conservative will be against this, as they don't agree in censoring speech because it offends people or because others may not like it.;Assumption;Assumption
+809;#NAME?;Assumption;Assumption
+810;They want non-white students to be able to force white students from the campus for a day.;Assumption;Assumption
+811;The person who didn't agree with this (Weinstein) has been labeled a racist.;Anecdote;Assumption
+812;"A social conservative believes in equality, so they don't agree that non-white people should be ""allowed"" to practice abject racism because of ""historic injustices"".";Assumption;Assumption
+813;#NAME?;Assumption;Assumption
+814;And I don't see how any reasonable person could say that social conservatives are on the wrong side here.;None;Assumption
+815;The definitions I am going to use are controversial but there was a debate in Feminism in the 1980s and the 1990s over 'sex positive' and 'sex negative' Feminism.;Anecdote;Anecdote
+816;Sex positive has largley won out but it fits hand in glove with consumerism and capitalism and there is a certain kind of Feminist today that backs something akin to 'Female gordon gekkos are awesome and autonomous and liberated...they should also get to feel like victims and unlike gordon, be the hero of the story';Assumption;Assumption
+817;I consider this development a win for conservativism (wolf) masquerading as progressivism (in sheeps clothing).;Assumption;Assumption
+818;The politics of Bill Clinton/Tony Blair third way is another example, one step forward, two steps back, the CULTURE of socio-economic consrvatism actually increased while a pretence at progressivism is made.Thats why Hillary campaigns with policies that are to the right of 1970s republicans.;Anecdote;Assumption
+819;"&gt;Are there examples of socially conservative policies or values that we can look back and all be thankful that they got their way?";None;None
+820;Communism.;None;None
+821;Anarchism.;None;Definition
+822;Annexation by the United States.;None;Anecdote
+823;What about the other side though?;None;None
+824;"I can think of a lot of boondoggles that were progressive, like prohibition and the ""war on drugs"".";Assumption;Assumption
+825;"The problem with the ""conservative"" tag is that something that's progressive 30 years ago is often conservative by the time people want to change it back!";Assumption;Assumption
+826;Your premise is wrong, history doesnt have a right or a wrong side, because it's all the perspective of the historian.;Assumption;Assumption
+827;"So of course a ""progressive"" historian will naturally be biased towards a reading of history that emphasizes his ideology's victories and downplays its defeats, in the same way that a capitalist historian will view the Soviet Union as an evil empire that squashed human rights while a Stalinist historian will say the same thing about the United States.";Assumption;Assumption
+828;"Besides the ""rightness"" or ""wrongness"" of history rapidly fades with time and becomes nonexistant when all of the political forces at the time die out.";Assumption;Assumption
+829;For instance, was the Roman Empire on the right or wrong side of history?;None;None
+830;Sure they built an empire that would be unmatched for thousands of years, sure they made massive leaps in science and technology, sure they gave their people a level of comfort never before seen, but they also fell.;Anecdote;Assumption
+831;The Roman civilization lasted for about 2000 years, modern representative democracy has only lasted for a little over 200, and the idea of social progress has lasted less than 100 years, how can you say that its going to last forever?;None;Assumption
+832;Thatd be like a Roman coming out of the Punic wars saying, wow we're unbeatable, bet this'll never end.;Assumption;Assumption
+833;And indeed, Rome still had many rungs to climb from there, and then all of them to fall back down.;Anecdote;Assumption
+834;So it goes inevitably with all institutions, why will the idea of social progress be any different?;None;None
+835;Look at countries like Iran of Afghanistan - they were taken over by conservatives and look where it got them today.;Anecdote;Assumption
+836;They are still very much in power and there is no evidence to support that they are going back to your definitions of progress.;Anecdote;Assumption
+837;Answering for 1.;None;None
+838;Conservatives believe in a smaller government, which naturally means fewer government programs.;Assumption;Assumption
+839;This might sound bad at first, but let me ask you: have you ever known the government to be good at handling money?;None;None
+840;I barely trust them with my tax dollars to get things done.;None;Assumption
+841;One thing most liberals fail to grasp about conservatives is we're not specifically against freedom and liberty for all.;Assumption;Assumption
+842;Quite the opposite.;Assumption;None
+843;You're in control of your own destiny, and the options might not necessarily be clear if someone isn't in a great situation, but they're there.;Assumption;Assumption
+844;Let's take for example a couple lives on minimum wage working at walmart to support their family.;Assumption;Anecdote
+845;Both husband and wife make whatever minimum wage is in their hypothetical town barely making ends meet.;Assumption;Assumption
+846;They feel stuck.;Assumption;Assumption
+847;But they're not stuck.;Assumption;Assumption
+848;They've just been conditioned to accept that they'll never get anywhere and THAT is the problem.;Assumption;Assumption
+849;Hypothetical family has every right to just go door to door and offer to do something like mowing the lawn for the neighborhood and make way more than minimum wage.;Assumption;Assumption
+850;Chances are, most families are willing to give 20$ to mow a lawn.;Assumption;Assumption
+851;Anyways that's my rant.;None;None
+852;Conditioning the unfortunate into thinking they're stuck is the major problem in this country, not specifically liberals or conservatives.;Assumption;Assumption
+853;Sorry if this is touching on too much on economics, but the progressive “Fight for 15” minimum wage initiative might be an issue where the progressives might be on the wrong side of history.;Assumption;Assumption
+854;I’m not saying that there shouldn’t be a minimum wage, just that a minimum wage at $15 likely is too high.;None;Assumption
+855;A recent [study from the University of Washington](http://www.cnbc.com/2017/07/02/seattles-minimum-wage-hike-may-have-cut-wages-and-jobs-study-author.html) found that low wage workers lost an average of $125 a month when the minimum wage was increased from $11 to $13 dollars an hour (although an earlier raise from $10 to $11 actually increased their earnings).;Statistics/Study;Statistics/Study
+856;Employers reacted by cutting hours and jobs, so the average low income worker was worse off.;Statistics/Study;Anecdote
+857;Now any policy that hurts the poor, I'd argue is counter productive and wrong.;Assumption;Assumption
+858;It's hard to apply this to the national level and there have been other studies that found contradictory results, but there is substantial evidence that conservative’s opposition to a $15 minimum wage may be better off for the working poor.;Assumption;Assumption
+859;More “conservative” policies like the earned income tax credit or universal basic income might be more effective at boosting wages for the working poor, but now I’m definitely getting into economics.;Assumption;Assumption
+860;Freedom and liberty are **not** what social liberals are after.;Assumption;Assumption
+861;What I see is a desire for preferential treatment, a demand for not just acceptance but for **adoration** and, of course, demands for righting wrongs committed in the past by people other than those being asked to make up for it.;Assumption;Assumption
+862;There is a new category of social conservatives which appeared...;None;Assumption
+863;I was about to say recently, but I'm not even sure it's that new.;None;None
+864;"I'd be tempted to call them ""common-sense conservatives"", but common sense is such a subjective measure, so I'll go with ""reactionary conservatives"".";None;Assumption
+865;They're basically the ones saying the pendulum went way too much in the progressive direction, in certain respects - not society at large, maybe, but some environments: colleges, parts of online, parts of corporate culture.;Assumption;Assumption
+866;They're pointing out several liberal fallacies which are either factually incorrect, or pretty obviously wrong.;Assumption;Assumption
+867;"There is a [very good source](https://www.amazon.com/Diversity-Myth-Multiculturalism-Intolerance-Independent-ebook/dp/B00SQLF352/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=) for what they're standing for, if you have the patience to read it.";Statistics/Study;Statistics/Study
+868;If not, [google found this](https://www.youtube.com/watch?v=E6cxRYgqfHY) shorter video.;Anecdote;Anecdote
+869;If you want I can give concrete examples, but I think the sources will do it better than me.;None;Assumption
+870;"There is no such thing as ""wrong side of history"" because you don't know what the future holds.";Assumption;Assumption
+871;Imagine being an advocate for homosexuality in a place like ancient Rome during the time Christianity was spreading.;Assumption;Assumption
+872;I actually don't know if all versions of Christianity ban homosexuality and how fast that happened but let us, for the sake of argument, pretend that you're a Pagan Roman and you support homosexuality as it was in Rome, and that Christians want to make such practices illegal.;Assumption;Assumption
+873;In this scenario, you're the social conservative and in some sense, you, a pro-gay (sorta) person, is on the wrong side of history because you'd have lost that debate and homosexuality did become illegal and strongly frowned upon in Rome (and what became of it), as well as the rest of Europe, for more than a millenium.;Assumption;Assumption
+874;But now homosexuality is becoming more and more acceptable, and it's legal in Europe.;Assumption;Assumption
+875;So is being for homosexuality on the wrong side of history?;None;None
+876;The practices you defended went out of favour for more than a thousand years.;Assumption;Assumption
+877;But on the other hand homosexuality did become legal again.;Assumption;Assumption
+878;I'm reading all the replies a lnd seeing your newfound knowledge on this subject and I see a pattern forming.;None;None
+879;There have been examples of good and bad social progress in this thread pushed by liberals, but I think the point is being missed.;None;Assumption
+880;All these policies and institutions and ideals are not really as motivated by enhancing the lives of the people, but rather to control as much of their lives as possible under the guise of social progressiveness.;Assumption;Assumption
+881;The reason you may not see as many policies and a uncaring attitude from conservatives is that thier platform is/was for smaller government (at least it was a few decades ago) and letting individual states decide rather then tell everyone what must be done in the name of the federal government.;Assumption;Assumption
+882;"Does that sometimes paint conservatives as behind the times and ""socially regressive"".";Other;Assumption
+883;Yes.;Other;None
+884;But there's more to it that that.;Assumption;None
+885;I used to think this as well but when you look at the voting record for the Civil Rights act it was largely opposed by democrats and passed by a republican majority;Anecdote;Assumption
+886;I feel like this is a little tautological, because we almost define 'social conservatism' based on things that existed in the past and don't any more.;Assumption;Assumption
+887;For example, to be a bit ridiculous, let's pretend that in 1912 there was a campaign to let four year-olds vote, which was thoroughly unsuccessful.;Assumption;Anecdote
+888;We wouldn't look back and call the people who opposed that 'socially conservative.';Assumption;Assumption
+889;If somehow that campaign had been successful, we would.;Assumption;Assumption
+890;So it's not so much that social conservatives always lose and end up as 'on the wrong side,' it's that we *define* some types of conservatism as being the historical losers.;Assumption;Assumption
+891;"Can we talk about how the very notion of ""The Right Side of History"" is basically a really fancy euphemism for deliberately using confirmation bias to make your point?";None;None
+892;"We might as well just say ""ineluctable historical dialectic.""";None;Assumption
+893;I'd point out as well that selection bias is going to affect our observations massively here.;Assumption;Assumption
+894;When progressives succeed wildly, they change history in clear ways we can see: for instance, the instantiation of women's suffrage is a pretty clear case of a time when progressives were right and we all recognize it now.;Anecdote;Assumption
+895;But on the flipside there are times where conservatives are right and the changes being proposed by progressives are unnecessary or egregious.;Assumption;Assumption
+896;What happens in those cases?;None;None
+897;Well, basically nothing.;None;Assumption
+898;The status quo is maintained, and sometimes that's a good thing.;Assumption;Assumption
+899;The result is that it's *really clear* when progressives are right.;Assumption;Assumption
+900;Historically, those moments are remembered.;Assumption;Anecdote
+901;But when conservatives are right, we often forget it, because all it did was maintain the status quo in the face of gratuitous or unnecessary change.;Assumption;Assumption
+902;"&gt; But that still means that their ""purpose"" is to work in the opposite direction of progress towards equality and liberty for all.";Assumption;Assumption
+903;You're describing social conservatives as only slowing down positive change to a pace that the general public can tolerate.;None;Assumption
+904;But social conservatives also try to keep negative change from happening because social progressives take it too far.;Assumption;Assumption
+905;For example, it is good to fight against white people being racist against black people.;Assumption;Assumption
+906;But it is not a good solution to institutionalize racism going the other way, like in the case of affirmative action.;Assumption;Assumption
+907;It is good to fight against discrimination against LBGT people.;Assumption;Assumption
+908;But it is not a good solution to take away someone's freedom to decide who they do business with, like in the case of requiring a baker to bake a cake for a gay wedding.;Assumption;Assumption
+909;(In fact, it runs counter to American values like freedom and liberty for all).;Assumption;Assumption
+910;It is good to have all sides presented when faced with controversial issues of public importance.;Assumption;Assumption
+911;But it is not a good solution to infringe on freedom by legally requiring private TV and radio stations to give equal time to every viewpoint, such as social progressives have tried to institute through the fairness doctrine.;Assumption;Assumption
+912;your ideas will be conservative given enough time.;None;Assumption
+913;also some things are just so a part of humanity changing them in our current society does not work, conservatives(this is not code for republicans) don't say nothing can change.;Assumption;Assumption
+914;they say thing should change but let's make at least 90% sure it is a good and needed change.;None;Assumption
+915;I feel like we're going to have an argument about definitions.;None;None
+916;"Your definition for social conservative seems to be someone who ""opposes social progress"" so it's sort of wrapped up in the premise that social conservatives are never on the ""right side of history"", because the group that you're considering as social conservatives is going to be whoever opposed any sort of change.";Assumption;Assumption
+917;Catholics, social conservatives, and religious folk fought the sterilization of the poor during the American Eugenics Movement.;Anecdote;Anecdote
+918;Most of the people in favor of stripping others of their reproductive rights thought of themselves as social progressives on the side of science, genetics and evolution.;Assumption;Assumption
+919;I think the thing about the situation we're unspokenly alluding to (where the Christian florist refused service for the gay wedding) was that it was *her* business, and she knew exactly what it was contributing to.;Assumption;Assumption
+920;I feel it may have been different if she didn't know what kind of wedding it was for, or if she didn't own the business (in which case she would have likely been fired).;None;Assumption
+921;Also, you were saying in another comment that then a server at a restaurant shouldn't serve a few teens because they may think they'll have premarital sex... Two distinctions, the server probably doesn't own the business, and providing food doesn't directly contribute to premarital sex like, say, selling a condom does.;Assumption;Assumption
+922;Providing food directly contributes to feeding them, and what they do afterwards is largely unrelated to service at a restaurant.;Assumption;Assumption
+923;For a Christian, it can be compared to owning a gun shop and selling a gun to someone who just told them they're about to kill someone.;Assumption;Assumption
+924;They believe someday they'll have to stand before God who will ask why they did that for them when they knew what it was for and when they believed it was wrong, like the gun shop owner would stand in front of the police/judge who would ask them the same question.;Assumption;Assumption
+925;Important to note is they believe a sin is a sin and all sins are equal in the sight of God (many Christians struggle putting that belief to action though, something I'm sure you've noticed).;Assumption;Assumption
+926;I'm not really trying to argue honestly, just provide a bit of insight.;None;None
+927;It's a gray area that I don't feel comfortable making solid decision, but I understand where both sides are coming from.;None;Assumption
+928;"&gt;that [Christians] should be able to refuse to provide services to gay people, but still be a public business.";None;None
+929;I think you misunderstand the objection.;None;None
+930;There isn't a blanket claim against service of homosexuals.;None;Assumption
+931;The withdraw from service is only so far as it requires the business owner to participate in the sin of sodom.;Assumption;Assumption
+932;That's why you hear about cake makers but not cafes.;Assumption;Assumption
+933;Baking a cake for an event solemnizing a sinful deed is objectionable.;Assumption;Assumption
+934;Serving a cup of coffee for someone headed to the office isn't.;Assumption;Assumption
+935;I think the best argument against this view is that Christian religious doctrine can be read to require that they not provide any support to people's sins.;None;Assumption
+936;And there is pretty clear doctrine that homosexuality is a sin to Christians.;Assumption;Assumption
+937;Practicing their religion can be viewed as requiring them not to provide assistance to gay people in normalizing what the particular Christian considers to be sinful behavior.;Assumption;Assumption
+938;Ultimately, that viewpoint is a violation of modern standards of civil society... but it's still more practicing their religion than imposing it.;Assumption;Assumption
+939;"&gt;They are asking that their religious beliefs be encoded in the law.";None;Assumption
+940;I mean, its a right.;None;None
+941;The right to be able to practice their religion.;None;Assumption
+942;And their religion says that gays = bad.;Assumption;Assumption
+943;"&gt;I view this as the imposition of religion on others, not the free practice of religion.";None;None
+944;Except that gay couple can just go to another cake store.;Assumption;Assumption
+945;No one is forcing anything on them, the same way no one should force the christian bakers to do something they dont want to do.;Assumption;Assumption
+946;Using force isnt right.;None;Assumption
+947;"&gt;It is important to note that not one of the proposed laws supporting discrimination in the United States has talked about any other grounds other than religious, or brought up any other case besides same sex relationships";Assumption;Assumption
+948;It's almost as if it's a religious problem, and the only people they have a problem with is gay people.;Assumption;Assumption
+949;Also, what laws are you speaking of?;None;None
+950;Im not challenging, i just want to know what you're talking about;None;None
+951;"&gt;So it is clear that one religious perspective is being favored over all others in these laws.";Assumption;Assumption
+952;Again, thats because its a fundamental right.;Assumption;Assumption
+953;That kinda trumps the law.;Assumption;Assumption
+954;If you want to argue about whether they should be allowed to do this, thats another debate.;None;None
+955;"But you have to understand, not selling something to someone else isn't ""imposing"" anything onto them.";None;Assumption
+956;However, forcing christian bakeries to sell to gay people would be through force, and it would go against what they think is right.;Assumption;Assumption
+957;Which is wrong.;None;Assumption
+958;How open are you to having your view changed?;None;None
+959;That is, it doesn't seem like you have much sympathy  for those, for instance, who don't wish to cater for same-sex weddings.;None;Assumption
+960;"&gt;These laws are not being suggested as a blanket right of businesses to have categories of people who are not welcome.";Assumption;Assumption
+961;I think this is a key point.;None;Assumption
+962;In your other responses in this thread, you have repeatedly characterised this as discrimination against categories of people, whereas I think the majority of the 'rights' being argued for are actually the right to discriminate against 'categories of behaviour'.;None;Assumption
+963;Other users have pointed this out to you, but there is a difference between a cake shop refusing to sell gay people anything and refusing to design a cake for celebrating behaviour they don't agree with.;None;Assumption
+964;I don't think I've heard of any proposed laws that would enshrine the former as a right.;None;Assumption
+965;They don't want to be excepted from the law, they want the law to change.;Assumption;Assumption
+966;I agree with them.;None;None
+967;A Jew should not be forced to serve a nazi, just like a Muslim shouldn't be forced to serve a Jew and a catholic shouldn't be forced to serve a gay person.;None;Assumption
+968;If you don't like the way a business does business, get all your friends (on a large scale) to boycott and they will go under.;Assumption;Assumption
+969;That's how it's supposed to work, but laws have propped up failing businesses for years.;Assumption;Assumption
+970;"Christians should be able to refuse ""gay services"", but they should not be allowed to refuse service to gays.";None;Assumption
+971;For example, one shouldn't be compelled to make a gay wedding cake, but they should be forced to sell their normal, non-affiliated with homosexuality goods.;None;Assumption
+972;I don't think denying service is imposing, by definition asking someone to do something they don't want to do under (in this case legal) threat is imposing.;Definition;Assumption
+973;Either way, personally, and maybe it's because I'm too young to see the history of it going south especially with racism, but I think businesses should be able to refuse services as long as it doesn't violate their advertising promises (e.g.;None;Assumption
+974;"""We'll make a cake for any occasion"" then refusing to make one for a gay couple's wedding).";None;None
+975;With the rise of connectivity any anti-race establishments would be committing business suicide I think, even small businesses in racist areas, parades of rightfully outraged people etc.;Assumption;Assumption
+976;And many of you probably disagree, but if you do, please tell me you also disagree with other business discrimination that is totally legal, such as based on age or sex, gyms, pools, hair salons, and many other things can be segregated, why is race/sexuality so special?;None;None
+977;I think the only differences really are A) sexual hang ups B) the history of the race/sexuality discrimination.;None;None
+978;This is a terribly inconsistent law set, either discrimination is ethical to allow or it's not, they shouldn't pick and choose based on categories.;Assumption;Assumption
+979;Btw I also think I should be able to turn down a KKK member or ex-member purely for that reason, or neo Nazi or whatever it may be, but I don't see how that wouldn't be hypocritical if Christians couldn't also turn down gay people.;Assumption;Assumption
+980;I'll give this a shot because I'm a christian and I have a gay brother, so I feel like I have pretty decent understanding of both sides.;Testimony;Anecdote
+981;For the christians that think homosexuality is a sin, they see gay marriage as an insult to what God intended marriage to be, and thus they wouldn't want to in anyway be involved in that activity.;Assumption;Assumption
+982;I want to make it clear that I would see serving gay people and gay weddings as completely different in this situation.;None;None
+983;Let's say you own a pizza place.;Assumption;Assumption
+984;If a gay couple wants to buy pizza from your store, I think you are obligated to do that.;Assumption;Assumption
+985;Because even if they see homosexuality as a sin, everyone is a sinner so they are no different in that regard.;Assumption;Assumption
+986;However I'd say it becomes different if you know that the product you are producing is going towards something you see as an insult to God.;Assumption;Assumption
+987;I'm sorry if this isn't the perfect explanation, but I think it comes down to the difference between serving gay people (no different than serving any other people) and serving people that would mean engaging in an activity you see as wrong;None;None
+988;The only thing I find disputable in this view is what's in the title: that it's a right to impose rather than a right to practice.;None;Assumption
+989;Please do elaborate if you mean to say more.;None;None
+990;The truth is, it's both.;Assumption;Assumption
+991;Religious imposition laws are a result of a perceived right to practice.;Assumption;Assumption
+992;Honestly if I company doesn't want to give someone service, I say so be it.;None;None
+993;I'd rather people be able to show their bigotry so that I won't make the mistake of giving them my hard earned money.;None;Assumption
+994;If a store refuses to serve homosexuals, transsexuals, different faiths, or colors then fine don't serve em.;None;Assumption
+995;"I can't wait for it to pop up online that ""business A"" refuses to serve (whoever) so we can run them out of business.";None;Assumption
+996;Why on earth would anyone want to keep a bigot in business?;None;None
+997;The religion of Christianity is supposed to impose.;Assumption;Assumption
+998;Evangelism is all about getting as many as possible to join the flock.;Assumption;Definition
+999;The free practice of religion unfortunately means that sooner rather than later, there will be those that go beyond the norm and yet are technically still following their religious ideals.;Assumption;Assumption
+1000;Jim Jones, those that disown children for being gay or kill doctors for providing abortions and polygamists that have child brides are all prime examples of what happens when free reign is given to religions because then it becomes that much harder to prevent certain crimes without infringing on their religion.;Anecdote;Anecdote
+1001;Practicing an outdated belief of any kind IS an imposition on everybody else.;Assumption;Assumption
+1002;"&gt;These laws are not being suggested as a blanket right of businesses to have categories of people who are not welcome.";Assumption;Assumption
+1003;The laws would not support discrimination on racial grounds, for example.;Assumption;Assumption
+1004;They would support not wanting to take part in your ethnic religious celebration that will be celebrated almost exclusively by people of a particular race.;Assumption;Assumption
+1005;"&gt; Some Christian business owners in the US seem to believe that an exception should be made in their case regarding gay people";Assumption;Assumption
+1006;No.;None;None
+1007;"In fact, time and again, the businesses in question always stress ""We'll serve gays.";Assumption;Assumption
+1008;"We just don't want to service a same-sex wedding.""";Assumption;Assumption
+1009;"People treat this as ""refusal to serve gays"" because that's vastly easier to defend and looks far less petty than ""I'll make a birthday cake for fifty gay people but I don't want to take part in a same-sex wedding ceremony even if it's a celibate marriage among two otherwise straight people.""";Assumption;Assumption
+1010;As a Christian my self I see Sin as sin regardless.;Anecdote;Anecdote
+1011;Will I not like you if you are gay?;Other;None
+1012;No, will I treat you differently?;Other;None
+1013;No, same with lying or envy.;Other;Assumption
+1014;If being gay is a sin you have to refuse service to everyone because everyone has sinned.;Assumption;Assumption
+1015;For most of American history, businesses were seen as having unlimited discretion to refuse a paying customer for any reason.;Assumption;Anecdote
+1016;However, during the civil rights era, laws were passed to prevent racial and religious discrimination.;Anecdote;Anecdote
+1017;This was to preempt Jim crow era policies which explicitly prohibited businesses from serving blacks and whites together, creating a two tiered economy that made it impossible for blacks to succeed.;Anecdote;Assumption
+1018;Over the years federal law has been updated to include protections for gender and disability, but not sexual orientation.;Anecdote;Assumption
+1019;Some states have passed their own laws protecting LGTBQ status, but states are still free to do the reverse.;Assumption;Assumption
+1020;However, the current set of laws being passed has a slightly different context then being discussed.;Assumption;Assumption
+1021;This involves businesses being compelled to facilitate the actual gay marriages themselves.;Assumption;Assumption
+1022;The most notable example is a wedding photographer, who I believe was trying to seek relief from a state law, claiming that her occupation was artistic and that in photographing the wedding she was being compelled to support something that violated her religious beliefs.;Anecdote;Anecdote
+1023;I personally support gay marriage rights.;None;Assumption
+1024;I'm not a Christian.;None;Anecdote
+1025;However, I think in this narrow case the plaintiff had a just claim.;None;Assumption
+1026;The courts disagreed, and if a gay person simply wanted a portrait then she would be in the wrong.;Anecdote;Assumption
+1027;The 'religious liberty' laws are too broad, at least as I understand them, however, their genesis is out of the fear, real or imagined, that Christians will be compelled to accept sinful practices.;Assumption;Assumption
+1028;Marriage is a union between man and woman in front of God.;Assumption;Definition
+1029;Marriage is actually a religious thing.;Assumption;Assumption
+1030;"""Marrying"" a man and man in front of God is seen as something unnatural being given Gods grace when God wouldn't want it to be.";Assumption;Assumption
+1031;(Note I'm not against gays.;None;None
+1032;Just telling you how it's seen).;None;None
+1033;Now a days there are 2 marriages.;Assumption;Assumption
+1034;In the eyes of God and the eyes of the state.;Assumption;Assumption
+1035;Most are both.;Assumption;Assumption
+1036;If you only get the second kind it's called a civil union.;Definition;Assumption
+1037;Christians see nothing wrong with the second because it's not involving the church.;Assumption;Assumption
+1038;Why gays want to involve the church all the time I don't know.;None;Assumption
+1039;But they're basically forcing the church to do something blasphemous in the eyes of God so they feel better about themselves.;Assumption;Assumption
+1040;It's totally symbolic.;Assumption;Assumption
+1041;The civil union is all that matters in a governmental way.;Assumption;Assumption
+1042;Married vs civil union for the most part is exactly the same.;Assumption;Assumption
+1043;Married just means union in front of God also.;Assumption;Definition
+1044;Serious question: Isn't marriage supposed to be marriage under god?;None;None
+1045;A holy union that embraces Christianity?;None;None
+1046;With that in mind, how could a gay marriage be ok if the union itself is not sanctioned by the religion itself?;None;Assumption
+1047;To me, the separation of church and state means that religious practices like marriage shouldn't be regulated by federal laws.;None;Definition
+1048;Marriages in a Christian church, ought to be 100% at the discretion of the church.;None;None
+1049;Legal unions are different though.;None;Assumption
+1050;A secular union has nothing o do with religion.;Assumption;Assumption
+1051;I do not believe they should have that right.;None;None
+1052;The argument for gay marriage counters the arguments against gay marriage, some of which are also arguments against polygamy (traditional definition of marriage, etc).;Assumption;Assumption
+1053;However, there are other, specific arguments against polygamy that are not made against gay marriage, and the gay marriage argument doesn't answer those.;Assumption;Assumption
+1054;These include things like:;None;None
+1055;-Marriage is a contract between two people, none of the laws and contracts we have in place work with more than 2 people;Assumption;Definition
+1056;-Polygamy has shown up very often in religious cults and other cultural institutions with a heavy element of coercion and problematic power dynamics, it may be predisposed to this and should not be encouraged;Assumption;Assumption
+1057;-Marriage is still about giving benefits to help with raising children, we don't believe a child can really be raised by 5 'parents' in the same way they're raised by 2.;Assumption;Assumption
+1058;#NAME?;None;None
+1059;I'm not saying any of these are good arguments - in fact I think they're bad arguments and that polygamy should be legal.;None;Assumption
+1060;But my point is that these arguments are specific to polygamy and are not answered by the arguments for gay marriage.;Assumption;Assumption
+1061;Morally, sure, they are closely linked.;Assumption;Assumption
+1062;There may be reasons for monogamy over polygamy, but the big issue is the legal logistics.;Assumption;Assumption
+1063;It's easy to say this man is his husband, and has all the rights of a spouse,.;Assumption;Assumption
+1064;If she there are multiple people involved, who gets those rights?;None;None
+1065;Who inherits?;None;None
+1066;Who has the final say on medical care?;None;None
+1067;Who shares spousal discounts on taxes?;None;None
+1068;We've gone away from male centric society where women are second class citizen s, so they have equal rights, and with that,  marriage equality just makes sense.;Assumption;Assumption
+1069;You don't have to label one spouse the man and the other the woman anymore, so gay marriage is reasonable and no reason other than religious to ban it.;None;Assumption
+1070;But polygamy has logistics beyond gender.;Assumption;Assumption
+1071;If we consider marriage to be a partnership between equals then I think the comparison breaks down.;Assumption;None
+1072;Two gay people can have an equal partnership just as easily as two straight people, but with heterosexual polygamous relationships things get more complicated.;Assumption;Assumption
+1073;Typically these relationships involve a single person of one sex (usually male) with several members of the opposite sex competing for their attention to some extent.;Assumption;Definition
+1074;I'd argue that this type of relationship is inherently unequal, with some members having disproportionately more power than the others.;Assumption;Assumption
+1075;Furthermore, if a culture develops this sort of relationship as its norm then there will be pressure on the individuals to engage in a polygamous marriage even if that is not what they would prefer.;Assumption;Assumption
+1076;There is no similar danger related to gay marriage.;Assumption;Assumption
+1077;I realize these arguments don't apply to homosexual polygamy (except for the normative argument I guess).;None;None
+1078;Come to think of it I can't think of a reason not to allow that besides the practical ones people have already mentioned in this thread.;None;Assumption
+1079;"&gt;However, I cannot think of any reason why polygamy should not be included in the umbrella of marriage given arguments for gay marriage.";None;None
+1080;Gay marriage does not cause social inequities like polygamy does.;Assumption;Assumption
+1081;They don't create a shortage of available spouses of one gender.;Assumption;Assumption
+1082;They aren't characterized by higher rates of child abuse, rape, kidnapping, murder, etc.;Assumption;Assumption
+1083;They don't typically involve one powerful person marrying multiple vulnerable people.;Assumption;Assumption
+1084;They don't lead to unfair divorces (e.g.;Assumption;Assumption
+1085;separation of assets).;Assumption;None
+1086;The arguments in favor of gay marriage do not negate all the arguments against polygamy.;Assumption;Assumption
+1087;"&gt;That being said, a relationship between a gay couple should be able to advance to marriage status because they should have the same right to access the benefits of marriage as a straight couple.";None;Assumption
+1088;However, since poly relationships have more than 2 people, they are incompatible with the already established institution of marriage, so it should not be legal.;None;Assumption
+1089;I think traditionally, a straight couple would be recognized by society (whit the institution of marriage) mostly to help incentivize people to take care of the next generation.;Assumption;Assumption
+1090;If a gay couple can do that today, poly couples can do it probably as well.;Assumption;Assumption
+1091;You are generally correct that arguments that support gay marriage also apply to plural marriage (I will avoid using the word polygamy, as it specifically means 1 husband with multiple wives).;None;None
+1092;The big difference, however, is that there is a long history of statute and caselaw that determine the legal aspects of how a marriage between 2 people works, and also how divorce between 2 people works.;Assumption;Assumption
+1093;The same is not true for plural marriage.;Assumption;Assumption
+1094;There are sooooo many legal questions that would need to be answered in order to make plural marriage work as an institution, and it may just not be possible to answer them all in a way that is just and makes sense.;Assumption;Assumption
+1095;Marriage is a legal contract.;Assumption;Assumption
+1096;It is dressed up in a lot of emotional/historical issues, but at its heart, it's nothing more than a contract.;Assumption;Assumption
+1097;U.S. law (I'm not going to wade through all of it, but it's well settled at this point) does not allow the state and/or federal governments to apply discriminatory criteria to allowing/disallowing contracts.;Assumption;Assumption
+1098;Race/gender/sexual orientation, whether you agree or disagree, are not an acceptable basis under current law.;Assumption;Assumption
+1099;"Saying a contract can only involve ""1+1""
+ versus ""1+2, etc.""";None;Assumption
+1100;unless you can show it falls within a disallowed (e.g., discriminatory) category, is not impermissible.;None;Assumption
+1101;"So the states and the federal government are free to regulate contracts on that basis so long as they have a reason that rationally relates to a purpose delegated to the state/federal government (marriage, obviously, falls within the ""government can regulate"" category).";Assumption;Assumption
+1102;"So, unless the laws and/or evidence change so that ""1+2, etc.""";Assumption;Assumption
+1103;has an illegal disallowed/discriminatory motive, the states and federal government can prohibit contracts of that type.;Assumption;Assumption
+1104;"Here's an argument that doesn't also justify polygamy:
+
+
+The law defines marriage as a union between two people, a man and a women.";Definition;Definition
+1105;The fundamental reasons people aspire to marriage, such as declaring love and commitment for life, apply to any 2-person relationship, regardless of gender.;Assumption;Assumption
+1106;"Thus, we should change the rules, and it is easy for us to alter the definition from ""Between a man and a woman"" to ""between a person and a person"".";Assumption;Assumption
+1107;This argument is in favor of legalizing gay marriage for reasons that do not apply to polygamy.;Assumption;Assumption
+1108;I'd say the entire purpose of marriage is to legalize a codependent financial bond  between two individuals.;Assumption;Assumption
+1109;The reason why it is between two people is because historically the wife has been dependent on the husband.;Assumption;Assumption
+1110;Marriage protects the woman in case the man decides to leave her by favoring her in custody and forcing the husband to pay alimony (completely sexist by nature).;Assumption;Assumption
+1111;The entire institution of marriage is outdated because men are no longer the primary bread winners, and relationships are no longer limited to traditional heterosexual and monogamous stereotypes.;Assumption;Assumption
+1112;"&gt;I particularly remember an episode of Jon Stewart where he responded to this argument by saying ""people aren't born polygamist""";Anecdote;Anecdote
+1113;Do you have a source for this?;None;None
+1114;It seems like an awfully naîve thing to say.;None;None
+1115;Obviously the human race has existed longer than the concept of monogamy has.;Assumption;Assumption
+1116;This is a common argument by anyone who prefers to see same-sex marriage as a special circumstance.;Assumption;Assumption
+1117;"The rationale being that if you allow one exception to the ""norm,"" you must allow others.";Assumption;Assumption
+1118;"""Where do we draw the line?""";None;None
+1119;they ask.;None;None
+1120;"""Beastiality?";None;None
+1121;"Can I marry my car?""";None;None
+1122;Reality is that this is about equal protection or treatment under the law.;Assumption;Assumption
+1123;The law currently allows two adults to marry, and enjoy all the benefits the law provides along with it.;Assumption;Assumption
+1124;But not any two adults.;Assumption;Assumption
+1125;Only these types.;Assumption;Assumption
+1126;Not these other types.;Assumption;Assumption
+1127;That's the issue.;None;Assumption
+1128;Certain people in our society are allowed a privilege not extended to others based solely on a moral judgement of who they are.;Assumption;Assumption
+1129;This violates equal protection.;Assumption;Assumption
+1130;Nobody is allowed to marry multiple partners simultaneously.;Assumption;Assumption
+1131;Therefore equal protection is maintained.;Assumption;Assumption
+1132;But marriage is allowed for other pairs of adults.;Assumption;Assumption
+1133;Just not for all.;Assumption;Assumption
+1134;Hence the problem.;Assumption;Assumption
+1135;All contracts revolve around consent.;Assumption;Assumption
+1136;The problem with polygamy is it has a history of questionable consent: grooming, cultish behavior.;Assumption;Assumption
+1137;Plus you have the problem of property division.;Assumption;Assumption
+1138;Divorce is a bitch, but plural divorce would be a nightmare.;Assumption;Assumption
+1139;I personally believe all marriages should have a prenup.;None;None
+1140;This is especially the case in plural marriage.;Assumption;Assumption
+1141;Without such laws, the courts and State have the right to not grant or uphold contract.;Assumption;Assumption
+1142;I highly recommend you watch the show Escaping Polygamy.;Anecdote;None
+1143;It shows that polygamy is a lifestyle that traps the people involved, allowing abuse and other misdeeds to flourish.;Anecdote;Assumption
+1144;In theory, this is isnt a result of polygamy, but in practice, it is.;Assumption;Assumption
+1145;I was under the impression that the majority of polygamy is forced.;None;Anecdote
+1146;Men marrying girls (under 18).;None;Anecdote
+1147;Their parents arranged the marriage, sign the marriage certificate.;None;Anecdote
+1148;If all parties are interested(read: not forced), I have no moral opposition.;None;Assumption
+1149;But I understand the legal hindrances on part of the government.;None;None
+1150;Sure.;None;None
+1151;There's nothing unethical about polygamy.;None;Assumption
+1152;The primary opposition to it is a legal one, because a 3+ way marriage contract introduces quite a bit more complexity than a two person contract.;Assumption;Assumption
+1153;But that's simply a matter of practicality, not ethics.;Assumption;Assumption
+1154;Morally, there is no difference.;Assumption;Assumption
+1155;If two consenting adults wish to enter into a relationship, then 3 or 4 can also enter into a relationship.;Assumption;Assumption
+1156;However, logistically, creating a framework for how polygamous marriages would work in the real world is a nightmare.;Assumption;Assumption
+1157;I think this is a pretty simple CMV.;None;Assumption
+1158;Polygamy and polyandry are much different than same sex or opposite sex marriages because they involve more than two people.;Assumption;Assumption
+1159;It brings up all kinds of issues involving custody rights, divorce and property settlements, legally binding contracts, bake account access, and a host of other problems.;Assumption;Assumption
+1160;To be clear, if these problems were ironed out in a reasonable way and people could enter or exist polygamous marriages without problems, I would have difficulty objecting to it.;None;Assumption
+1161;As it stands though, nobody is proposing serious options and solutions for polygamy at this time.;None;Assumption
+1162;I would like to address your revised position, specifically the legal and practical standpoint issue.;None;None
+1163;I don't feel that this is nearly as large of a hurdle as it is typically made out to be.;None;Assumption
+1164;We already have the legal and practical framework in place for shared, even dynamic ownership structures, as well as shared liability and responsibility and even the rights to that which is created by a plurally owned organization.;Assumption;Assumption
+1165;If you think about it in terms of business ownership, a structure which could easily be adopted for civil marriage, then traditional 2 person marriage is a just a simple partnership.;Assumption;Assumption
+1166;Plural marriage is just a more complex incorporation.;Assumption;Assumption
+1167;Even adding third of 4th people to an existing marriage is easily accommodated by adopting corporate law structures of ownership and liability.;Assumption;Assumption
+1168;the trickiest to handle would be non-exclusive marriage, where one person could be married to two  people, each of which are not married to one another but also have separate spouses of their own that are not married to the center of the V that connects them all.;Assumption;Assumption
+1169;I think that the only practical limitation to plural marriage lies somewhere in there - that it must be limited only to inclusive groups and exclusive to other marriage.;None;Assumption
+1170;Only 1 recognized legal marriage per person, but as many people as they mutually desire included in it.;None;Assumption
+1171;I guess my counter argument is, so what?;None;None
+1172;You want to marry three women?;None;None
+1173;Go for it.;None;None
+1174;You want to marry your cousin?;None;None
+1175;Go for it.;None;None
+1176;You want to marry your friends child?;None;None
+1177;No way.;None;Assumption
+1178;What consenting adults do is one thing.;None;Assumption
+1179;What an adult does with a child or animal is another.;None;Assumption
+1180;They aren't on the same plane.;None;Assumption
+1181;This is not a comment to convince anyone of anything -- as a 35-year old happily married dude with kids and a career, I wish there was some kind of a quazi-marital social construct you could enter into with other adults.;None;Assumption
+1182;I'm not talking about swinging / banging other people, but a logistical framework for sharing in the resources, taking care of kids, etc.;None;Assumption
+1183;My wife and I have a childhood friend who really discovered himself as a father and wants to spend lots of time at home, but can't because he makes most of the money in the family.;Anecdote;Anecdote
+1184;His wife is more comfortable working professionally, but doesn't make much.;Anecdote;Anecdote
+1185;We also have young kids and fall somewhere inbetween on the stay-at-home / career spectrum.;Anecdote;Anecdote
+1186;I think he is as serious as any other person who runs.;None;Anecdote
+1187;If you think about it, they're all trolling us in one way or another.;None;Assumption
+1188;"What would ""prove"" that he's trolling?";None;None
+1189;If he were to step aside?;None;None
+1190;"The ""rickrolling"" thing isn't evidence of this.";None;Assumption
+1191;"Trump isn't part of the ""internet generation"".";Assumption;Assumption
+1192;"Even if he were trolling the country he wouldn't call it ""trolling"" and he wouldn't do it like 4chan would if they had a secret candidate.";Assumption;Assumption
+1193;I don't think there is not no such thing as a non-insubstantial.;None;None
+1194;I think it might be not irrefutable that there is a non-insignificant possibility there there is a substantial chance or just a chance (of course he could just be not irresponsible with what he says).;None;Assumption
+1195;And I am only semi-quasi non-disingenuous when I say that.;None;None
+1196;I believe what you are looking for is Poe's law.;Definition;Assumption
+1197;That any extreme position expressed zealously is indistinguishable from satire.;Definition;Assumption
+1198;He certainly is a candidate known for his rapidly changing hardline rhetoric, but there have been many before him and there will be many after him.;Assumption;Assumption
+1199;He took his celebrity style and tweeted his way to a populist movement.;Assumption;Anecdote
+1200;Do I think he believes everything he is saying?;None;None
+1201;Not personally, though I don't really believe that of many politicians.;None;Assumption
+1202;I think he started out as a kind of xenophobic isolationist protest candidate who didn't think he'd ever get this far.;Assumption;Anecdote
+1203;I'm sure in the general election we will see him become less of that character and try and sculpt the more relatable Romney that could win an election.;Assumption;Assumption
+1204;The Rick roll at the convention you referenced, isn't it possible that rather than a super obvious attempt of trolling to throw his election, it was a super obvious troll to try to relate to the younger voters?;None;None
+1205;I'm not debating it's usefulness or whether he was trolling or not.;None;None
+1206;"I think that he thought if he referenced Rick roll like that, millennials would pick up on it, toss it through social media, and have it regurgitated as ""ohhh hahaha look how fun and silly uncle trump is.";Assumption;Assumption
+1207;just like your uncle.;None;Assumption
+1208;"vote for him young people!!""";None;None
+1209;To your point about Melania's rick roll, I think the most likely scenario is that a younger speech writer slipped that in as a joke, and nobody caught it.;Assumption;Assumption
+1210;I seriously doubt Melania or Trump set out to rick roll the audience.;Assumption;Assumption
+1211;Trolling, or, my theory, he's doing this to raise more money and name recognition for his future business exploits.;None;Assumption
+1212;Have you ever seen The Producers?;None;None
+1213;You can make more money with a flop than with a hit!;Assumption;Assumption
+1214;I'd be more likely to suspect him as running so people would elect Hillary out of fear when she is perhaps one of the most corrupt politicians to ever run for the office (Going all the way back to 1974 and Watergate).;None;Assumption
+1215;I seriously wonder if Hillary would even have a chance if not for Trump, because of how disliked she is.;None;Assumption
+1216;People are really afraid of WORDS when they should be afraid of ACTIONS.;Assumption;Assumption
+1217;NOTE: I am not endorsing either of them.;None;None
+1218;I'd rather see people vote for Gary Johnson or Jill Stein.;None;Anecdote
+1219;I think he's just trying to be famous.;None;Anecdote
+1220;Who's more famous than a president?;None;None
+1221;I bet there's people out there who can name every president who's ever been right?;None;None
+1222;Probably a lot of them too.;Assumption;Assumption
+1223;No matter how pure or corrupt they are they'll always be remembered.;Assumption;Assumption
+1224;This guys going for the long con sure but I think he's got his immortality in mind.;Assumption;Assumption
+1225;Trump is using trolling techniques to do well in our political process.;Assumption;Assumption
+1226;He says provocative things with just enough plausible deniability that it doesn't eliminate him.;Assumption;Assumption
+1227;He is Extremely successful at this.;None;Assumption
+1228;"The question of ""whether he wants to be President"" is largely irrelevant.";None;Assumption
+1229;He put forth a strategy that served him well and it's incredibly fair to say it's a trolly strategy.;Assumption;Assumption
+1230;I don't think he's trolling at all.;None;Assumption
+1231;"Remember, Trump was perhaps the most vocal ""birther"" an entire election cycle ago.";Anecdote;Assumption
+1232;He even hired private detectives to try to discover something damning about Obama.;Anecdote;Anecdote
+1233;Obama, though, had the last laugh when he [roasted Trump's antics during the correspondants dinner -- right to his face](https://www.youtube.com/watch?v=7eJpWOY3r18).;Anecdote;Anecdote
+1234;Look at the expression on Trump's face.;None;Assumption
+1235;He's squirming.;None;Assumption
+1236;"He is used to being the big man and ""yes men"" stroking his already-inflated ego.";Assumption;Anecdote
+1237;Instead, the entire room was all laughing at him, belittling him.;Assumption;Assumption
+1238;That wasn't the reaction of someone who was just trolling, it was the reaction of someone who'd just been embarrassed for his outrageous beliefs.;Assumption;Assumption
+1239;Those extreme beliefs are only reinforced by the fact that his long-time butler is a [known racist and fervent Obama-hater](https://www.washingtonpost.com/news/the-fix/wp/2016/05/13/donald-trumps-butler-problem/).;Anecdote;Assumption
+1240;While these extreme positions may seem like an example of [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law), I assure you, Trump clearly holds those convictions.;Assumption;Statistics/Study
+1241;I think his staff are trolling.;None;Assumption
+1242;I think Trump is genuine in his weird sort of way, but the people who rise quickly in his staff are the morbidly sarcastic type who would try to slide in a Rickroll reference and a plagiarized first lady speech.;None;Assumption
+1243;According to people who know him, Trump is a narcissist who feeds on attention.;Testimony;Anecdote
+1244;So yes, his entire campaign is just him feeding his narcissism by any means necessary.;Assumption;Assumption
+1245;I don't know if that is the same thing as trolling.;None;None
+1246;But it is in the same ballpark.;None;Assumption
+1247;The same thought has crossed my mind, but as of right now I'm more inclined to believe that his whole campaign is just a tool to promote his businesses.;None;Assumption
+1248;The constant book references and the comments he made at his golf club among other things point to the run being a racket.;Assumption;Anecdote
+1249;Being president seems like an additional bonus to him rather than a necessity.;None;Assumption
+1250;I can understand where you're coming from but that's just a natural reaction.;None;None
+1251;When you see someone being so outrageous and **stupid**, to the point you can barely comprehend a human being could *genuinely be that far gone*, your immediate instinct is to go the opposite direction, and apply an unwarranted intelligence, some ulterior motive.;Assumption;Assumption
+1252;*Something* to avoid the uncomfortable psychological dissonance of having to accept the previously unacceptable fact that some people really are just that hopeless.;Assumption;Assumption
+1253;If Trump is some super-genius troll then he has been doing it since he first opened his mouth.;Assumption;Assumption
+1254;He's been a complete muppet since long before his presidential run, I should know, my local community had the misfortune of attracting this man's attentions, and the sheer amount of bullshit he brings with him.;Assumption;Anecdote
+1255;It's not just that he riles people up.;Assumption;Assumption
+1256;He's genuinely a *bad person*.;None;Assumption
+1257;"Although it's arguable trolls (people trying to incite a reaction usually one of upset and negative attention) aren't counted up there with ""good people"".";None;Assumption
+1258;He wants the presidency, because that's Trump's personality to a T. When he decides he wants something he'll go full bent for it and damned be consequences, common sense or even common decency.;Assumption;Assumption
+1259;He's a narcissist of the highest order so in his mind *of course* he deserves the presidency, and it'll only be natural if he gets it.;Assumption;Assumption
+1260;"Not here to challenge your view just to let you know that using a double negative in your title ""non-insubstanial is incredibly confusing and poor writing!";None;None
+1261;"why not just use"" substantial""?";None;None
+1262;edit: better yet, non-negligable works brilliantly.;None;None
+1263;He's been consistent and clear on his opinion of what is wrong with America and what needs to change... For the last 36 Years.;Assumption;Assumption
+1264;He has said the same thing since the 80's... no one listened.;Assumption;Anecdote
+1265;So it finally got bad enough that he's going to do exactly what he said he would do, for the last 36 years... and Fix it himself.;Assumption;Anecdote
+1266;https://www.youtube.com/watch?v=OCabT_O0YSM;Anecdote;Anecdote
+1267;Essentially you'd have to believe this is a troll he's been working for the better part of 4 Decades, one that he'd sacrifice 18 months of his life and business, to run on the campaign trail.;Anecdote;Assumption
+1268;One that he'd feel was worth tens of millions in personal funds.;None;Assumption
+1269;One that would be worth being labeled a Racist, Misogynist,  Anti-Semite, Zenophone, Bigot, and more...;None;Assumption
+1270;"The man has been called ""Literally Hitler"".";None;Anecdote
+1271;No troll is worth that.;Assumption;Assumption
+1272;It looks like the discussion has already run it's course and your view has changed..;None;Assumption
+1273;I just wanted to say that the reason trolling works is because there is a small chance the person is being serious and is just a little off or completely oblivious.;Assumption;Assumption
+1274;In other words, if someone says the moon is made of cheese, they aren't trolling because everyone knows that nobody in their right mind believes the moon is made of cheese.;Assumption;Assumption
+1275;However, if someone says the moon landing was a hoax, it's possible they believe it because we know others do really believe that.;Assumption;Assumption
+1276;The things Trump are saying seem trolly because there are people delusional enough to believe the things he claims to believe.;Assumption;Assumption
+1277;We just don't want to believe a successful businessman and celebrity would believe things reserved for village idiots.;Assumption;Assumption
+1278;So when Trump says something absurd, you have to choose between two conclusions, this successful popular businessman is brutally ignorant of reality, or this successful popular businessman is just trolling.;Assumption;Assumption
+1279;The more successful popular people you meet, the more you'll understand that the concept of them being massively ignorant is well within the realm of possibility and not really surprising at all.;Assumption;Assumption
+1280;i used to think the same about Herman Cain.;Anecdote;Anecdote
+1281;With him stealing a tax plan from Sim City and a speech from the Pokemon theme song, the uzbeki-beki-stan-stan, adn the ridic smiling ad he made.;Anecdote;Assumption
+1282;But even still, after the fact, there is nothing to suggest even that whacko's campaign was nothing but genuine.;Assumption;Assumption
+1283;I think you might just be underestimating the requirements for the persona of the POTUS.;None;Assumption
+1284;And that our process is just not good at vetting out narcissistic weirdos.;None;Assumption
+1285;Remember the 'rent is too damn high' guy?;None;None
+1286;Remember Ross Perot?;None;None
+1287;Edit: ok maybe ross perot doesn't size up the same as Cain and Trump, but my point still stands;None;None
+1288;"lol, i was just talking about this with my girlfriend last night about the chances trump is just fucking with people and that it'd actually completely change my view of him if whenever he's either elected or loses, he ""removes the mask"" to reveal just how racist and gullible people are.";Anecdote;Anecdote
+1289;"her response to me changed my view-- ""i don't think he's clever or humble enough to do that.""";Anecdote;Anecdote
+1290;good point.;None;None
+1291;LOL.;None;None
+1292;I would argue that he has been trying to break into politics for far too long for it to realistically be a troll.;Assumption;Assumption
+1293;I learned about his early political ambitions from http://trumpthemovie.com/menu/#about;Anecdote;Anecdote
+1294;It used to be viewable for free on their website, but it looks like they charge for it now.;Assumption;Assumption
+1295;You could try youtube or torrents.;None;Assumption
+1296;Essentially, he sincerely believes himself to be an important and influential person with the ability to run the country.;Assumption;Anecdote
+1297;He was a contender for VP in '88, and has talked about running for president off and on since then.;Anecdote;Anecdote
+1298;"For at least that long his interviews have had a somewhat political bent at times where he would slip in comments like ""we have to turn the country around"" etc.";Anecdote;Anecdote
+1299;That could be.;None;None
+1300;But if not, what does this teach us?;None;None
+1301;1.;None;None
+1302;The electorate is fucking retarded.;None;Assumption
+1303;2.;None;None
+1304;"America is in very desperate shape
+
+3.";None;Assumption
+1305;"That aunt from Minnesota is racist as shit
+
+4.";None;Assumption
+1306;We have some serious issues of division here.;None;Assumption
+1307;I can't pin recent violence on Trump, but Trump is a symptom of some deep divisions that is manifesting in some terrible violence.;Assumption;Assumption
+1308;5.;None;None
+1309;If he is elected, deserve it.;None;Assumption
+1310;"&gt;I mean the classical sense of the word, where you say things you don't necessarily mean for the purpose of getting a particular reaction out of people, and try to push it as far as you can before they realize you are bullshitting.";None;Assumption
+1311;This seems like a definition that would apply to every politician ever.;Assumption;Assumption
+1312;E.g.;None;None
+1313;Obama.;None;None
+1314;Claim: Hope and Change.;None;None
+1315;Intended reaction: getting elected.;None;None
+1316;Definitely pushed it as far as he could.;None;Assumption
+1317;Result: bullshit (e.g.;None;None
